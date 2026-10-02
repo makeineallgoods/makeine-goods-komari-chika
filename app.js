@@ -494,7 +494,7 @@
     bindEvents();
     try {
       const paths = ['data/catalog.json', 'data/registry/categories.json', 'data/registry/campaigns.json', 'data/registry/manufacturers.json'];
-      const responses = await Promise.all(paths.map(path => fetch(path, { cache: 'no-store' })));
+      const responses = await Promise.all(paths.map(path => fetch(path, { cache: 'default' })));
       const failed = responses.find(response => !response.ok);
       if (failed) throw new Error(`HTTP ${failed.status}`);
       const [catalogData, categoryData, campaignData, manufacturerData] = await Promise.all(responses.map(response => response.json()));
