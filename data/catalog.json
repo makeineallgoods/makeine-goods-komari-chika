@@ -21776,6 +21776,391 @@
         "小鞠知花"
       ],
       "notes": null
+    },
+    {
+      "id": "across-komari-backpack",
+      "global_product_id": "across-komari-backpack-akrmkn003",
+      "character_id": "komari-chika",
+      "name_ja": "小鞠知花のリュック",
+      "name_zh": "小鞠知花角色印象双肩包",
+      "category_id": "bag",
+      "campaign_id": "across-komari-backpack-2025",
+      "manufacturer_id": "across",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "W30×H40×D11cm；肩带宽5.5cm、长42～83cm",
+        "material": "棉、聚酯纤维、PU合成皮革"
+      },
+      "release_date": null,
+      "list_price_yen": 7480,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/across-komari-backpack-1.jpg",
+          "thumbnail_path": "images/thumbs/across-komari-backpack.webp",
+          "role": "product",
+          "source_url": "https://akros-con.net/wp/wp-content/uploads/2025/08/ruck-1.jpg"
+        },
+        {
+          "path": "images/items/across-komari-backpack-2.jpg",
+          "thumbnail_path": "images/thumbs/across-komari-backpack-2.webp",
+          "role": "detail",
+          "source_url": "https://akros-con.net/wp/wp-content/uploads/2025/08/ruck-2.jpg"
+        },
+        {
+          "path": "images/items/across-komari-backpack-3.jpg",
+          "thumbnail_path": "images/thumbs/across-komari-backpack-3.webp",
+          "role": "detail",
+          "source_url": "https://akros-con.net/wp/wp-content/uploads/2025/08/ruck-3.jpg"
+        },
+        {
+          "path": "images/items/across-komari-backpack-4.jpg",
+          "thumbnail_path": "images/thumbs/across-komari-backpack-4.webp",
+          "role": "detail",
+          "source_url": "https://akros-con.net/wp/wp-content/uploads/2025/08/ruck-4.jpg"
+        },
+        {
+          "path": "images/items/across-komari-backpack-5.jpg",
+          "thumbnail_path": "images/thumbs/across-komari-backpack-5.webp",
+          "role": "detail",
+          "source_url": "https://akros-con.net/wp/wp-content/uploads/2025/08/ruck-5.jpg"
+        },
+        {
+          "path": "images/items/across-komari-backpack-6.jpg",
+          "thumbnail_path": "images/thumbs/across-komari-backpack-6.webp",
+          "role": "detail",
+          "source_url": "https://akros-con.net/wp/wp-content/uploads/2025/08/ruck-6.jpg"
+        },
+        {
+          "path": "images/items/across-komari-backpack-7.jpg",
+          "thumbnail_path": "images/thumbs/across-komari-backpack-7.webp",
+          "role": "detail",
+          "source_url": "https://akros-con.net/wp/wp-content/uploads/2025/08/ruck-7.jpg"
+        },
+        {
+          "path": "images/items/across-komari-backpack-8.jpg",
+          "thumbnail_path": "images/thumbs/across-komari-backpack-8.webp",
+          "role": "detail",
+          "source_url": "https://akros-con.net/wp/wp-content/uploads/2025/08/ruck-8.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ACROSS",
+          "phase": "general_sale",
+          "url": "https://akros-con.net/item/2143"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://akros-con.net/item/2143",
+          "type": "manufacturer",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "角色印象",
+        "双肩包",
+        "小鞠知花"
+      ],
+      "notes": "商品代码 AKRMKN003；2025年12月发售。"
+    },
+    {
+      "id": "movic-oshi-badge-collection-komari",
+      "global_product_id": "movic-oshi-badge-collection-komari-4550621267505",
+      "character_id": "komari-chika",
+      "name_ja": "推しキャラバッジコレクション／小鞠 知花",
+      "name_zh": "推角徽章收藏 小鞠知花 8包装盒",
+      "category_id": "can_badge",
+      "campaign_id": "movic-oshi-badge-komari-2025",
+      "manufacturer_id": "movic",
+      "variant": "小鞠知花全8种",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "纸、铁、PP"
+      },
+      "release_date": "2025-02-07",
+      "list_price_yen": 3520,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/movic-oshi-badge-collection-komari.jpg",
+          "thumbnail_path": "images/thumbs/movic-oshi-badge-collection-komari.webp",
+          "role": "lineup",
+          "source_url": "https://www.movic.jp/img/goods/L/05459-00603-00026-l.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Movic",
+          "phase": "general_sale",
+          "url": "https://www.movic.jp/shop/g/g05459-00603-00026/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.movic.jp/shop/g/g05459-00603-00026/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "徽章",
+        "小鞠知花"
+      ],
+      "notes": "JAN 4550621267505；仅以1BOX 8包装形式销售，不保证单盒集齐全8种。"
+    },
+    {
+      "id": "bakudanyaki-trading-acrylic-stand",
+      "global_product_id": "bakudanyaki-trading-acrylic-stand-4573654643900",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディングアクリルスタンド",
+      "name_zh": "爆弹烧本铺联动 随机亚克力立牌 小鞠知花款",
+      "category_id": "acrylic_stand",
+      "campaign_id": "bakudanyaki-collaboration-2025",
+      "manufacturer_id": "wood-boy",
+      "variant": "小鞠知花款包含在全10种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": "本体约H80×W60mm以内；底座约40×40mm以内",
+        "material": "亚克力"
+      },
+      "release_date": "2025-11-28",
+      "list_price_yen": 820,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/bakudanyaki-trading-acrylic-stand.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-trading-acrylic-stand.webp",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654643900_1_1765537504.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3347600/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3347600/",
+          "type": "seller",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "爆弹烧",
+        "随机",
+        "小鞠知花"
+      ],
+      "notes": "JAN 4573654643900；Animate通贩以1BOX 10包销售。"
+    },
+    {
+      "id": "bakudanyaki-trading-can-badge",
+      "global_product_id": "bakudanyaki-trading-can-badge-4573654643917",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディング缶バッジ",
+      "name_zh": "爆弹烧本铺联动 随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "bakudanyaki-collaboration-2025",
+      "manufacturer_id": "wood-boy",
+      "variant": "小鞠知花普通版与镭射版包含在全10种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "铁、纸"
+      },
+      "release_date": "2025-11-28",
+      "list_price_yen": 510,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/bakudanyaki-trading-can-badge-1.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-trading-can-badge.webp",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654643917_1_1765537506.jpg"
+        },
+        {
+          "path": "images/items/bakudanyaki-trading-can-badge-2.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-trading-can-badge-2.webp",
+          "role": "detail",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654643917_2_1765537504.jpg"
+        },
+        {
+          "path": "images/items/bakudanyaki-trading-can-badge-3.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-trading-can-badge-3.webp",
+          "role": "detail",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654643917_3_1765537505.jpg"
+        },
+        {
+          "path": "images/items/bakudanyaki-trading-can-badge-4.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-trading-can-badge-4.webp",
+          "role": "detail",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654643917_4_1765537505.jpg"
+        },
+        {
+          "path": "images/items/bakudanyaki-trading-can-badge-5.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-trading-can-badge-5.webp",
+          "role": "detail",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654643917_5_1765537505.jpg"
+        },
+        {
+          "path": "images/items/bakudanyaki-trading-can-badge-6.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-trading-can-badge-6.webp",
+          "role": "detail",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654643917_6_1765537504.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3347601/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3347601/",
+          "type": "seller",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "爆弹烧",
+        "随机",
+        "镭射",
+        "小鞠知花"
+      ],
+      "notes": "JAN 4573654643917；全10种为普通版5种与镭射版5种。"
+    },
+    {
+      "id": "bakudanyaki-acrylic-mascot-komari",
+      "global_product_id": "bakudanyaki-acrylic-mascot-komari-4573654643962",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルマスコット 小鞠 知花",
+      "name_zh": "爆弹烧本铺联动 亚克力吉祥物 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "bakudanyaki-collaboration-2025",
+      "manufacturer_id": "wood-boy",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "本体约H190×W135mm以内；底座约60×30mm以内",
+        "material": "亚克力"
+      },
+      "release_date": "2025-11-28",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/bakudanyaki-acrylic-mascot-komari.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-acrylic-mascot-komari.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654643962_1_1765537506.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3347556/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3347556/",
+          "type": "seller",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "爆弹烧",
+        "单人",
+        "小鞠知花"
+      ],
+      "notes": "JAN 4573654643962。"
+    },
+    {
+      "id": "bakudanyaki-sticker-set-komari",
+      "global_product_id": "bakudanyaki-sticker-set-komari-4573654644204",
+      "character_id": "komari-chika",
+      "name_ja": "ダイカットステッカーセット 小鞠 知花",
+      "name_zh": "爆弹烧本铺联动 异形贴纸套装 小鞠知花",
+      "category_id": "sticker",
+      "campaign_id": "bakudanyaki-collaboration-2025",
+      "manufacturer_id": "wood-boy",
+      "variant": "小鞠知花 2枚套装",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": "约65×85mm以内",
+        "material": "纸"
+      },
+      "release_date": "2025-11-28",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/bakudanyaki-sticker-set-komari.jpg",
+          "thumbnail_path": "images/thumbs/bakudanyaki-sticker-set-komari.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573654644204_1_1765537507.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3347580/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3347580/",
+          "type": "seller",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "爆弹烧",
+        "贴纸",
+        "小鞠知花"
+      ],
+      "notes": "JAN 4573654644204；2枚套装。"
     }
   ]
 }

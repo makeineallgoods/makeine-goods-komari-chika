@@ -765,6 +765,36 @@
       "aliases": [],
       "year": 2026,
       "official_url": "https://www.neogate.jp/makeine_goods/"
+    },
+    {
+      "id": "across-komari-backpack-2025",
+      "name_zh": "ACROSS 角色印象包袋",
+      "name_ja": "アクロス キャラクターモチーフバッグ",
+      "aliases": [
+        "小鞠知花のリュック"
+      ],
+      "year": 2025,
+      "official_url": "https://akros-con.net/item/2143"
+    },
+    {
+      "id": "movic-oshi-badge-komari-2025",
+      "name_zh": "Movic 推角徽章收藏 小鞠知花",
+      "name_ja": "ムービック 推しキャラバッジコレクション 小鞠知花",
+      "aliases": [
+        "推しキャラバッジコレクション"
+      ],
+      "year": 2025,
+      "official_url": "https://www.movic.jp/shop/g/g05459-00603-00026/"
+    },
+    {
+      "id": "bakudanyaki-collaboration-2025",
+      "name_zh": "爆弹烧本铺联动",
+      "name_ja": "ばくだん焼本舗 コラボ",
+      "aliases": [
+        "ばくだん焼本舗 池袋店限定 POP UP"
+      ],
+      "year": 2025,
+      "official_url": "https://x.com/bkdanikebukuro"
     }
   ]
 }

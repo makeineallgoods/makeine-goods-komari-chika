@@ -308,6 +308,28 @@
       "name_zh": "Up Fields / PremiumShop",
       "name_ja": "Up Fields / PremiumShop",
       "official_url": "https://premiumshop.tokyo/"
+    },
+    {
+      "id": "across",
+      "name_zh": "ACROSS",
+      "name_ja": "アクロス",
+      "aliases": [
+        "アクロス コンテンツ事業部"
+      ]
+    },
+    {
+      "id": "movic",
+      "name_zh": "Movic",
+      "name_ja": "ムービック",
+      "aliases": []
+    },
+    {
+      "id": "wood-boy",
+      "name_zh": "Wood Boy",
+      "name_ja": "ウッドボーイ",
+      "aliases": [
+        "有限会社ウッドボーイ"
+      ]
     }
   ]
 }
