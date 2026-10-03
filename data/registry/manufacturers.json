@@ -57,6 +57,12 @@
       ]
     },
     {
+      "id": "bell-house",
+      "name_zh": "Bell House",
+      "name_ja": "ベルハウス",
+      "official_url": "https://bellhouse-shop.com/"
+    },
+    {
       "id": "bluesun",
       "name_zh": "BlueSUN / BlueBlueTOKYO",
       "name_ja": "BlueSUN / BlueBlueTOKYO",
@@ -296,6 +302,12 @@
       "aliases": [
         "カルチュア・コンビニエンス・クラブ"
       ]
+    },
+    {
+      "id": "up-fields-premiumshop",
+      "name_zh": "Up Fields / PremiumShop",
+      "name_ja": "Up Fields / PremiumShop",
+      "official_url": "https://premiumshop.tokyo/"
     }
   ]
 }

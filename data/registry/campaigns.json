@@ -94,6 +94,16 @@
       "official_url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html"
     },
     {
+      "id": "bellhouse-pajama-2024",
+      "name_zh": "唐吉诃德 睡衣主题",
+      "name_ja": "ドン・キホーテ パジャマver.",
+      "aliases": [
+        "ベルハウス パジャマver."
+      ],
+      "year": 2024,
+      "official_url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+    },
+    {
       "id": "blueblue-watch-2025",
       "name_zh": "BlueBlueTOKYO 角色腕表",
       "name_ja": "BlueBlueTOKYO キャラクター腕時計",
@@ -206,6 +216,24 @@
       "official_url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html"
     },
     {
+      "id": "curtain-damashii-angel-devil-2025",
+      "name_zh": "カーテン魂 天使与恶魔",
+      "name_ja": "カーテン魂 天使＆悪魔",
+      "aliases": [
+        "天使&悪魔"
+      ],
+      "year": 2025,
+      "official_url": "https://www.curtain-damashii.com/item/tag/makeine/"
+    },
+    {
+      "id": "curtain-damashii-cider-2025",
+      "name_zh": "カーテン魂 汽水主题",
+      "name_ja": "カーテン魂 サイダー",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.curtain-damashii.com/item/tag/makeine/"
+    },
+    {
       "id": "eterno-recit-heart",
       "name_zh": "Eterno Récit 爱心Q版系列",
       "name_ja": "Eterno Récit ハートミニキャラ",
@@ -292,6 +320,16 @@
       "official_url": null
     },
     {
+      "id": "hobbystock-vacation-2025",
+      "name_zh": "败犬女主们的假期",
+      "name_ja": "POP UP SHOP ～マケインたちのバカンス～",
+      "aliases": [
+        "ホビーストック バカンスver."
+      ],
+      "year": 2025,
+      "official_url": "https://www.hobbystock.jp/sp/sm/makeine/"
+    },
+    {
       "id": "ichiban-kuji-2024",
       "name_zh": "一番赏《败犬女主太多了！》",
       "name_ja": "一番くじ 負けヒロインが多すぎる！",
@@ -344,6 +382,16 @@
       ],
       "year": 2025,
       "official_url": "https://kujico.jp/detail/272"
+    },
+    {
+      "id": "kyomaf-2024-yukata",
+      "name_zh": "京まふ2024 浴衣夏祭",
+      "name_ja": "京まふ2024 浴衣・夏祭りver.",
+      "aliases": [
+        "夏祭り/浴衣ver."
+      ],
+      "year": 2024,
+      "official_url": "https://online.aniplex.co.jp/KddfgCVO"
     },
     {
       "id": "lifecard-benefits",
@@ -482,6 +530,17 @@
       "official_url": "https://www.round1.co.jp/collaboration/makehiroin/index.html"
     },
     {
+      "id": "sanrio-characters-2025",
+      "name_zh": "三丽鸥角色联动",
+      "name_ja": "サンリオキャラクターズ PremiumShop",
+      "aliases": [
+        "×サンリオキャラクターズ",
+        "Up Fields PremiumShop"
+      ],
+      "year": 2025,
+      "official_url": "https://premiumshop.tokyo/makeine-sanrio/"
+    },
+    {
       "id": "second-anniversary-sweets-2026",
       "name_zh": "动画二周年甜点主题",
       "name_ja": "2nd Anniversary スイーツ ver.",
@@ -548,6 +607,16 @@
       "official_url": "https://www.animate-onlineshop.jp/pn/pd/3306412/"
     },
     {
+      "id": "sweets-dress-2024",
+      "name_zh": "甜点礼服",
+      "name_ja": "スイーツドレス！",
+      "aliases": [
+        "イーディス スイーツドレス!"
+      ],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+    },
+    {
       "id": "system-service-blanket-2024",
       "name_zh": "System Service 景品毛毯",
       "name_ja": "システムサービス ブランケット",
@@ -602,6 +671,26 @@
       "aliases": [],
       "year": 2025,
       "official_url": "https://makeine-toyohashi.jimdofree.com/"
+    },
+    {
+      "id": "trading-can-badge-vol-1",
+      "name_zh": "随机徽章 vol.1",
+      "name_ja": "トレーディング缶バッジ vol.1",
+      "aliases": [
+        "ホビーストック トレーディング缶バッジ vol.1"
+      ],
+      "year": 2024,
+      "official_url": "https://www.1999.co.jp/11126516"
+    },
+    {
+      "id": "trading-can-badge-vol-2",
+      "name_zh": "随机徽章 vol.2",
+      "name_ja": "トレーディング缶バッジ vol.2",
+      "aliases": [
+        "ホビーストック トレーディング缶バッジ vol.2"
+      ],
+      "year": 2025,
+      "official_url": "https://www.hobbystock.jp/item/view/hso-ccg-00010708"
     },
     {
       "id": "trading-can-badge-vol-3",

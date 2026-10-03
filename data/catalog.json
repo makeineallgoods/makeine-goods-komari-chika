@@ -4,7 +4,7 @@
   "catalog": {
     "title": "小鞠知花制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含小鞠知花的官方实体制品",
-    "updated_at": "2026-10-02",
+    "updated_at": "2026-10-03",
     "status": "published"
   },
   "character": {
@@ -18085,6 +18085,3695 @@
         "平成辣妹",
         "小鞠知花",
         "新规绘制"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kyomaf-2024-stand-komari",
+      "global_product_id": "kyomaf-2024-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルスタンド 小鞠知花",
+      "name_zh": "京まふ2024 浴衣亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "kyomaf-2024-yukata",
+      "manufacturer_id": "aniplex",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-09-21",
+      "list_price_yen": 1400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/kyomaf-2024-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/kyomaf-2024-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://online.aniplex.co.jp/on/demandware.static/-/Library-Sites-ANXSharedLibrary/ja_JP/dwc00fe4c0/category/event/kyomaf2024/goods/09_01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Aniplex Online",
+          "phase": "event_sale",
+          "url": "https://online.aniplex.co.jp/KddfgCVO"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/KddfgCVO",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kyomaf-2024-trading-badge",
+      "global_product_id": "kyomaf-2024-trading-badge",
+      "character_id": "komari-chika",
+      "name_ja": "ランダム缶バッジ",
+      "name_zh": "京まふ2024 浴衣随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "kyomaf-2024-yukata",
+      "manufacturer_id": "aniplex",
+      "variant": "小鞠知花款包含在全6种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-09-21",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/kyomaf-2024-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/kyomaf-2024-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://online.aniplex.co.jp/on/demandware.static/-/Library-Sites-ANXSharedLibrary/ja_JP/dwfa195baa/category/event/kyomaf2024/goods/09_02.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Aniplex Online",
+          "phase": "event_sale",
+          "url": "https://online.aniplex.co.jp/KddfgCVO"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/KddfgCVO",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kyomaf-2024-clear-file-set",
+      "global_product_id": "kyomaf-2024-clear-file-set",
+      "character_id": "komari-chika",
+      "name_ja": "A4クリアファイルセット",
+      "name_zh": "京まふ2024 浴衣 A4透明文件夹套装",
+      "category_id": "clear_file",
+      "campaign_id": "kyomaf-2024-yukata",
+      "manufacturer_id": "aniplex",
+      "variant": "三人集合套装",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-09-21",
+      "list_price_yen": 1300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/kyomaf-2024-clear-file-set.jpg",
+          "thumbnail_path": "images/thumbs/kyomaf-2024-clear-file-set.webp",
+          "role": "lineup",
+          "source_url": "https://online.aniplex.co.jp/on/demandware.static/-/Library-Sites-ANXSharedLibrary/ja_JP/dw688205d8/category/event/kyomaf2024/goods/09_03.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Aniplex Online",
+          "phase": "event_sale",
+          "url": "https://online.aniplex.co.jp/KddfgCVO"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/KddfgCVO",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kyomaf-2024-omamori-komari",
+      "global_product_id": "kyomaf-2024-omamori-komari",
+      "character_id": "komari-chika",
+      "name_ja": "恋愛成就 御守りチャーム 小鞠知花",
+      "name_zh": "京まふ2024 恋爱成就御守挂件 小鞠知花",
+      "category_id": "accessory",
+      "campaign_id": "kyomaf-2024-yukata",
+      "manufacturer_id": "aniplex",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-09-21",
+      "list_price_yen": 800,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/kyomaf-2024-omamori-komari.jpg",
+          "thumbnail_path": "images/thumbs/kyomaf-2024-omamori-komari.webp",
+          "role": "product",
+          "source_url": "https://online.aniplex.co.jp/on/demandware.static/-/Library-Sites-ANXSharedLibrary/ja_JP/dw67ecf357/category/event/kyomaf2024/goods/09_04.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Aniplex Online",
+          "phase": "event_sale",
+          "url": "https://online.aniplex.co.jp/KddfgCVO"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/KddfgCVO",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kyomaf-2024-half-tapestry-komari",
+      "global_product_id": "kyomaf-2024-half-tapestry-komari",
+      "character_id": "komari-chika",
+      "name_ja": "B2半裁タペストリー 小鞠知花",
+      "name_zh": "京まふ2024 浴衣 B2半幅挂毯 小鞠知花",
+      "category_id": "tapestry",
+      "campaign_id": "kyomaf-2024-yukata",
+      "manufacturer_id": "aniplex",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-09-21",
+      "list_price_yen": 2500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/kyomaf-2024-half-tapestry-komari.jpg",
+          "thumbnail_path": "images/thumbs/kyomaf-2024-half-tapestry-komari.webp",
+          "role": "product",
+          "source_url": "https://online.aniplex.co.jp/on/demandware.static/-/Library-Sites-ANXSharedLibrary/ja_JP/dw3a404299/category/event/kyomaf2024/goods/09_05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Aniplex Online",
+          "phase": "event_sale",
+          "url": "https://online.aniplex.co.jp/KddfgCVO"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/KddfgCVO",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-stand-komari",
+      "global_product_id": "sweets-dress-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルスタンド 小鞠知花",
+      "name_zh": "甜点礼服 亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "约71×140mm",
+        "material": "アクリル"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 1430,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-bea4e446925873d13e068662ea3fb1b8-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-clear-file-komari",
+      "global_product_id": "sweets-dress-clear-file-komari",
+      "character_id": "komari-chika",
+      "name_ja": "クリアファイル 小鞠知花",
+      "name_zh": "甜点礼服 透明文件夹 小鞠知花",
+      "category_id": "clear_file",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "A4対応",
+        "material": "PP"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-clear-file-komari.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-clear-file-komari.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-194ac2a35e94ec1f5dcff0bdffe49656-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-sns-card",
+      "global_product_id": "sweets-dress-sns-card",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディングSNSクリアカード",
+      "name_zh": "甜点礼服 随机SNS透明卡 小鞠知花款",
+      "category_id": "card",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": "约70×100mm",
+        "material": "PP"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 330,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-sns-card.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-sns-card.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-79bd7968ebbbe020cfb347211967c185-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-tapestry-komari",
+      "global_product_id": "sweets-dress-tapestry-komari",
+      "character_id": "komari-chika",
+      "name_ja": "B2タペストリー 小鞠知花",
+      "name_zh": "甜点礼服 B2挂毯 小鞠知花",
+      "category_id": "tapestry",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "约515×728mm",
+        "material": "ポリエステル"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-tapestry-komari.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-tapestry-komari.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-76c520c606e5e0340591eacd14fcff03-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-metal-badge",
+      "global_product_id": "sweets-dress-metal-badge",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディングメタリック缶バッジ",
+      "name_zh": "甜点礼服 随机金属质感徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "スチール・PET・紙"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-metal-badge.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-metal-badge.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-0e469323faeae94860938dbb71ac510c-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-holo-keychain",
+      "global_product_id": "sweets-dress-holo-keychain",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディングホロアクリルキーホルダー",
+      "name_zh": "甜点礼服 随机镭射亚克力挂件 小鞠知花款",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": "约60×68mm",
+        "material": "アクリル"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-holo-keychain.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-holo-keychain.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-7f89dce0fd1eef2cd986f563f2261a01-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-sticker-set",
+      "global_product_id": "sweets-dress-sticker-set",
+      "character_id": "komari-chika",
+      "name_ja": "ダイカットステッカーセット",
+      "name_zh": "甜点礼服 异形贴纸套装",
+      "category_id": "sticker",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约47×89mm以内",
+        "material": "紙・PP"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-sticker-set.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-sticker-set.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-965b193436a6915920f0ad78689e0df7-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-mini-stand-komari",
+      "global_product_id": "sweets-dress-mini-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "ミニキャラアクリルスタンド 小鞠知花",
+      "name_zh": "甜点礼服 Q版亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "约65mm见方以内",
+        "material": "アクリル"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-mini-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-mini-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-444bf8c831a90bcf7b279785963a5f79-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-big-stand-komari",
+      "global_product_id": "sweets-dress-big-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "ビッグアクリルスタンド 小鞠知花",
+      "name_zh": "甜点礼服 大型亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": "约103×200mm以内",
+        "material": "アクリル"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-big-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-big-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-f45fbd2978c40e9161ad5e7a81237c4b-1146x1146.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sweets-dress-photo-card-bonus",
+      "global_product_id": "sweets-dress-photo-card-bonus",
+      "character_id": "komari-chika",
+      "name_ja": "購入特典 ノベルティフォトカード",
+      "name_zh": "甜点礼服 满额特典照片卡 小鞠知花款",
+      "category_id": "card",
+      "campaign_id": "sweets-dress-2024",
+      "manufacturer_id": "edieth-animega-sofmap",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": null,
+        "material": "紙"
+      },
+      "release_date": "2024-11-29",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sweets-dress-photo-card-bonus.jpg",
+          "thumbnail_path": "images/thumbs/sweets-dress-photo-card-bonus.webp",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/194/66407-194-2170bc2538c21cfaa30a959ee23bc07e-3900x2194.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメガ×ソフマップ",
+          "phase": "event_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-keychain-komari",
+      "global_product_id": "pajama-keychain-komari",
+      "character_id": "komari-chika",
+      "name_ja": "ちょいデカアクリルキーホルダー 小鞠知花 パジャマver.",
+      "name_zh": "睡衣主题 小鞠知花 大亚克力挂件",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-keychain-komari.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-plush-keychain-komari",
+      "global_product_id": "pajama-plush-keychain-komari",
+      "character_id": "komari-chika",
+      "name_ja": "ぬいぐるみ風キーホルダー 小鞠知花",
+      "name_zh": "睡衣联动 Q版毛绒风挂件 小鞠知花",
+      "category_id": "plush",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 748,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-plush-keychain-komari.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-trading-badge",
+      "global_product_id": "pajama-trading-badge",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディング缶バッジ パジャマver.",
+      "name_zh": "睡衣主题 随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-pen-stand-komari",
+      "global_product_id": "pajama-pen-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルペンスタンド 小鞠知花 パジャマver.",
+      "name_zh": "睡衣主题 亚克力笔架 小鞠知花",
+      "category_id": "stationery",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 1650,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-pen-stand-komari.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-mega-stand-komari",
+      "global_product_id": "pajama-mega-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "MEGAアクリルスタンド 小鞠知花 パジャマver.",
+      "name_zh": "睡衣主题 MEGA亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 4950,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-mega-stand-komari.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-mini-stand-komari",
+      "global_product_id": "pajama-mini-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "ミニスタンド 小鞠知花 パジャマver.",
+      "name_zh": "睡衣主题 迷你立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-mini-stand-komari.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-clear-file-komari",
+      "global_product_id": "pajama-clear-file-komari",
+      "character_id": "komari-chika",
+      "name_ja": "クリアファイル 小鞠知花 パジャマver.",
+      "name_zh": "睡衣主题 透明文件夹 小鞠知花",
+      "category_id": "clear_file",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-clear-file-komari.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-slim-tapestry-komari",
+      "global_product_id": "pajama-slim-tapestry-komari",
+      "character_id": "komari-chika",
+      "name_ja": "スリムタペストリー 小鞠知花 パジャマver.",
+      "name_zh": "睡衣主题 细长挂毯 小鞠知花",
+      "category_id": "tapestry",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-slim-tapestry-komari.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-mug-komari",
+      "global_product_id": "pajama-mug-komari",
+      "character_id": "komari-chika",
+      "name_ja": "マグカップ 小鞠知花 パジャマver.",
+      "name_zh": "睡衣主题 马克杯 小鞠知花",
+      "category_id": "tableware",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": 1870,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-mug-komari.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pajama-photo-card-bonus",
+      "global_product_id": "pajama-photo-card-bonus",
+      "character_id": "komari-chika",
+      "name_ja": "ドン・キホーテ購入特典 フォト風カード",
+      "name_zh": "唐吉诃德满额特典照片风卡片 小鞠知花款",
+      "category_id": "card",
+      "campaign_id": "bellhouse-pajama-2024",
+      "manufacturer_id": "bell-house",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 4
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2024-10-05",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/pajama-2024-lineup.jpg",
+          "thumbnail_path": "images/thumbs/pajama-photo-card-bonus.webp",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/GXkUfo0a8AAYLwb.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ドン・キホーテ",
+          "phase": "event_sale",
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": "官方商品总览图；满额特典在事后通販中不配布。"
+    },
+    {
+      "id": "vacation-charafine-graph",
+      "global_product_id": "vacation-charafine-graph",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしキャラファイングラフ バカンスver.",
+      "name_zh": "假期主题 复制原画",
+      "category_id": "poster",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "A4画面，约405×320mm含框",
+        "material": "紙・樹脂・アクリル"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 16500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-charafine-graph.jpg",
+          "thumbnail_path": "images/thumbs/vacation-charafine-graph.webp",
+          "role": "lineup",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-canvas-art",
+      "global_product_id": "vacation-canvas-art",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしF6キャンバスアート バカンスver.",
+      "name_zh": "假期主题 F6帆布画",
+      "category_id": "poster",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约318×410mm",
+        "material": "綿・ポリエステル・木"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 6600,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-canvas-art.jpg",
+          "thumbnail_path": "images/thumbs/vacation-canvas-art.webp",
+          "role": "lineup",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_02.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-b2-tapestry",
+      "global_product_id": "vacation-b2-tapestry",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしB2タペストリー バカンスver.",
+      "name_zh": "假期主题 B2挂毯",
+      "category_id": "tapestry",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约728×515mm",
+        "material": "ポリエステル"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-b2-tapestry.jpg",
+          "thumbnail_path": "images/thumbs/vacation-b2-tapestry.webp",
+          "role": "lineup",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_03.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-slim-tapestry-komari",
+      "global_product_id": "vacation-slim-tapestry-komari",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしスリムタペストリー 小鞠知花 バカンスver.",
+      "name_zh": "假期主题 细长挂毯 小鞠知花",
+      "category_id": "tapestry",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": "约728×258mm",
+        "material": "ポリエステル"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-slim-tapestry-komari.jpg",
+          "thumbnail_path": "images/thumbs/vacation-slim-tapestry-komari.webp",
+          "role": "product",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_04.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-background-stand",
+      "global_product_id": "vacation-background-stand",
+      "character_id": "komari-chika",
+      "name_ja": "背景付き描き下ろしアクリルスタンド バカンスver.",
+      "name_zh": "假期主题 背景亚克力立牌",
+      "category_id": "acrylic_stand",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "背景约123×165mm",
+        "material": "アクリル"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-background-stand.jpg",
+          "thumbnail_path": "images/thumbs/vacation-background-stand.webp",
+          "role": "lineup",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-stand-komari",
+      "global_product_id": "vacation-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしアクリルスタンド 小鞠知花 バカンスver.",
+      "name_zh": "假期主题 亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": "约152×52mm",
+        "material": "アクリル"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 1650,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/vacation-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_06.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-trading-badge",
+      "global_product_id": "vacation-trading-badge",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしトレーディング缶バッジ バカンスver.",
+      "name_zh": "假期主题 随机徽章 小鞠知花相关款",
+      "category_id": "can_badge",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花相关款包含在全10种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "紙・スチール"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/vacation-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_07.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-mini-shikishi-komari",
+      "global_product_id": "vacation-mini-shikishi-komari",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしミニ色紙 小鞠知花 バカンスver.",
+      "name_zh": "假期主题 迷你色纸 小鞠知花",
+      "category_id": "card",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": "约135×120mm",
+        "material": "紙"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-mini-shikishi-komari.jpg",
+          "thumbnail_path": "images/thumbs/vacation-mini-shikishi-komari.webp",
+          "role": "product",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_08.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-clear-file-komari",
+      "global_product_id": "vacation-clear-file-komari",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしクリアファイル 小鞠知花 バカンスver.",
+      "name_zh": "假期主题 透明文件夹 小鞠知花",
+      "category_id": "clear_file",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": "约310×220mm",
+        "material": "PP"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-clear-file-komari.jpg",
+          "thumbnail_path": "images/thumbs/vacation-clear-file-komari.webp",
+          "role": "product",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_09.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-acrylic-plate-komari",
+      "global_product_id": "vacation-acrylic-plate-komari",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしビジュアルアクリルプレート 小鞠知花 バカンスver.",
+      "name_zh": "假期主题 视觉亚克力板 小鞠知花",
+      "category_id": "acrylic_art",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": "约210×148mm",
+        "material": "アクリル"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-acrylic-plate-komari.jpg",
+          "thumbnail_path": "images/thumbs/vacation-acrylic-plate-komari.webp",
+          "role": "product",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_10.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "vacation-rubber-mat",
+      "global_product_id": "vacation-rubber-mat",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろしラバーマット バカンスver.",
+      "name_zh": "假期主题 橡胶桌垫",
+      "category_id": "stationery",
+      "campaign_id": "hobbystock-vacation-2025",
+      "manufacturer_id": "hobby-stock",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约350×600mm",
+        "material": "ポリエステル・天然ゴム"
+      },
+      "release_date": "2025-06-07",
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/vacation-rubber-mat.jpg",
+          "thumbnail_path": "images/thumbs/vacation-rubber-mat.webp",
+          "role": "lineup",
+          "source_url": "https://www.hobbystock.jp/sp/sm/makeine/common/img/product/event/2025/item_11.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/makeine/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-acrylic-magnet",
+      "global_product_id": "sanrio-acrylic-magnet",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルマグネット 等身＆ミニキャラver.",
+      "name_zh": "三丽鸥联动 亚克力磁贴 小鞠知花款",
+      "category_id": "accessory",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-acrylic-magnet.webp",
+          "thumbnail_path": "images/thumbs/sanrio-acrylic-magnet.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-01.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-clear-card",
+      "global_product_id": "sanrio-clear-card",
+      "character_id": "komari-chika",
+      "name_ja": "クリアカード",
+      "name_zh": "三丽鸥联动 随机透明卡 小鞠知花款",
+      "category_id": "card",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-clear-card.webp",
+          "thumbnail_path": "images/thumbs/sanrio-clear-card.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-02.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-trading-badge",
+      "global_product_id": "sanrio-trading-badge",
+      "character_id": "komari-chika",
+      "name_ja": "缶バッジ",
+      "name_zh": "三丽鸥联动 随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-trading-badge.webp",
+          "thumbnail_path": "images/thumbs/sanrio-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-03.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-chibi-trading-badge",
+      "global_product_id": "sanrio-chibi-trading-badge",
+      "character_id": "komari-chika",
+      "name_ja": "缶バッジ ミニキャラver.",
+      "name_zh": "三丽鸥联动 Q版随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-chibi-trading-badge.webp",
+          "thumbnail_path": "images/thumbs/sanrio-chibi-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-04.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-acrylic-keychain",
+      "global_product_id": "sanrio-acrylic-keychain",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルキーホルダー",
+      "name_zh": "三丽鸥联动 随机亚克力挂件 小鞠知花款",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-acrylic-keychain.webp",
+          "thumbnail_path": "images/thumbs/sanrio-acrylic-keychain.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-05.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-chibi-acrylic-keychain",
+      "global_product_id": "sanrio-chibi-acrylic-keychain",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルキーホルダー ミニキャラver.",
+      "name_zh": "三丽鸥联动 Q版随机亚克力挂件 小鞠知花款",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-chibi-acrylic-keychain.webp",
+          "thumbnail_path": "images/thumbs/sanrio-chibi-acrylic-keychain.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-06.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-glitter-stick-keychain",
+      "global_product_id": "sanrio-glitter-stick-keychain",
+      "character_id": "komari-chika",
+      "name_ja": "ラメスティックキーホルダー",
+      "name_zh": "三丽鸥联动 亮片棒形挂件 小鞠知花款",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-glitter-stick-keychain.webp",
+          "thumbnail_path": "images/thumbs/sanrio-glitter-stick-keychain.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-07.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-chibi-mini-stand-keychain",
+      "global_product_id": "sanrio-chibi-mini-stand-keychain",
+      "character_id": "komari-chika",
+      "name_ja": "ミニアクリルスタンドキーホルダー ミニキャラver.",
+      "name_zh": "三丽鸥联动 Q版迷你立牌挂件 小鞠知花款",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-chibi-mini-stand-keychain.webp",
+          "thumbnail_path": "images/thumbs/sanrio-chibi-mini-stand-keychain.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-08.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-name-acrylic-badge-komari",
+      "global_product_id": "sanrio-name-acrylic-badge-komari",
+      "character_id": "komari-chika",
+      "name_ja": "おなまえアクリルバッジ 小鞠知花×マイメロディ",
+      "name_zh": "三丽鸥联动 姓名亚克力徽章 小鞠知花×美乐蒂",
+      "category_id": "accessory",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花×マイメロディ",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-name-acrylic-badge-komari.webp",
+          "thumbnail_path": "images/thumbs/sanrio-name-acrylic-badge-komari.webp",
+          "role": "product",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-09.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-stone-coaster-komari",
+      "global_product_id": "sanrio-stone-coaster-komari",
+      "character_id": "komari-chika",
+      "name_ja": "白雲石コースター 小鞠知花×マイメロディ",
+      "name_zh": "三丽鸥联动 白云石杯垫 小鞠知花×美乐蒂",
+      "category_id": "tableware",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花×マイメロディ",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-stone-coaster-komari.webp",
+          "thumbnail_path": "images/thumbs/sanrio-stone-coaster-komari.webp",
+          "role": "product",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-10.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-stand-komari",
+      "global_product_id": "sanrio-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルスタンド 小鞠知花×マイメロディ",
+      "name_zh": "三丽鸥联动 亚克力立牌 小鞠知花×美乐蒂",
+      "category_id": "acrylic_stand",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花×マイメロディ",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 1760,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-stand-komari.webp",
+          "thumbnail_path": "images/thumbs/sanrio-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-11.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-big-figure-komari",
+      "global_product_id": "sanrio-big-figure-komari",
+      "character_id": "komari-chika",
+      "name_ja": "箔押しBIGアクリルフィギュア 小鞠知花×マイメロディ",
+      "name_zh": "三丽鸥联动 烫印大型亚克力立牌 小鞠知花×美乐蒂",
+      "category_id": "acrylic_stand",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花×マイメロディ",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 2530,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-big-figure-komari.webp",
+          "thumbnail_path": "images/thumbs/sanrio-big-figure-komari.webp",
+          "role": "product",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-12.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-clear-file",
+      "global_product_id": "sanrio-clear-file",
+      "character_id": "komari-chika",
+      "name_ja": "クリアファイル 等身＆ミニキャラver.",
+      "name_zh": "三丽鸥联动 等身与Q版透明文件夹",
+      "category_id": "clear_file",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-clear-file.webp",
+          "thumbnail_path": "images/thumbs/sanrio-clear-file.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-13.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-drawstring-pouch",
+      "global_product_id": "sanrio-drawstring-pouch",
+      "character_id": "komari-chika",
+      "name_ja": "巾着 ミニキャラver.",
+      "name_zh": "三丽鸥联动 Q版束口袋",
+      "category_id": "bag",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 1430,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-drawstring-pouch.webp",
+          "thumbnail_path": "images/thumbs/sanrio-drawstring-pouch.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-14.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-memo-box",
+      "global_product_id": "sanrio-memo-box",
+      "character_id": "komari-chika",
+      "name_ja": "メモボックス ミニキャラver.",
+      "name_zh": "三丽鸥联动 Q版便签盒",
+      "category_id": "stationery",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 1540,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-memo-box.webp",
+          "thumbnail_path": "images/thumbs/sanrio-memo-box.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-15.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-b2-tapestry-komari",
+      "global_product_id": "sanrio-b2-tapestry-komari",
+      "character_id": "komari-chika",
+      "name_ja": "B2タペストリー 小鞠知花×マイメロディ",
+      "name_zh": "三丽鸥联动 B2挂毯 小鞠知花×美乐蒂",
+      "category_id": "tapestry",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花×マイメロディ",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-b2-tapestry-komari.webp",
+          "thumbnail_path": "images/thumbs/sanrio-b2-tapestry-komari.webp",
+          "role": "product",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makeine_item-16.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sanrio-bromide-bonus",
+      "global_product_id": "sanrio-bromide-bonus",
+      "character_id": "komari-chika",
+      "name_ja": "購入特典 オリジナルブロマイド",
+      "name_zh": "三丽鸥联动 满额特典照片卡 小鞠知花款",
+      "category_id": "card",
+      "campaign_id": "sanrio-characters-2025",
+      "manufacturer_id": "up-fields-premiumshop",
+      "variant": "小鞠知花款包含在全10种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-03-29",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/sanrio-bromide-bonus-01.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten01.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-02.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-2.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten02.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-03.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-3.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten03.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-04.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-4.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten04.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-05.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-5.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten05.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-06.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-6.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten06.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-07.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-7.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten07.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-08.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-8.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten08.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-09.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-9.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten09.webp"
+        },
+        {
+          "path": "images/items/sanrio-bromide-bonus-10.webp",
+          "thumbnail_path": "images/thumbs/sanrio-bromide-bonus-10.webp",
+          "role": "lineup",
+          "source_url": "https://premiumshop.tokyo/images/makein-sanrio/makein_tokuten10.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "PremiumShop",
+          "phase": "event_sale",
+          "url": "https://premiumshop.tokyo/makeine-sanrio/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://premiumshop.tokyo/makeine-sanrio/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "小鞠知花"
+      ],
+      "notes": "每消费3300日元随机赠送1张；通販不附赠。"
+    },
+    {
+      "id": "cider-trading-badge",
+      "global_product_id": "cider-trading-badge",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディング缶バッジBOX（サイダー）9個入り",
+      "name_zh": "汽水主题 随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/cider-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine01_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-mini-stand-komari",
+      "global_product_id": "cider-mini-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "ミニアクリルスタンド 小鞠知花／サイダー",
+      "name_zh": "汽水主题 迷你亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-mini-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/cider-mini-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/astand_makeine04-mini_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/astand_makeine04-mini/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/astand_makeine04-mini/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-keychain-komari",
+      "global_product_id": "cider-keychain-komari",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルキーホルダー 小鞠知花／サイダー",
+      "name_zh": "汽水主题 亚克力挂件 小鞠知花",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-keychain-komari.jpg",
+          "thumbnail_path": "images/thumbs/cider-keychain-komari.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/keyholderacr_makeine04_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine04/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine04/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-acrylic-block-komari",
+      "global_product_id": "cider-acrylic-block-komari",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルブロック 小鞠知花／サイダー",
+      "name_zh": "汽水主题 亚克力块 小鞠知花",
+      "category_id": "acrylic_art",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-acrylic-block-komari.jpg",
+          "thumbnail_path": "images/thumbs/cider-acrylic-block-komari.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/ablock_makeine04_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine04/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine04/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-noren",
+      "global_product_id": "cider-noren",
+      "character_id": "komari-chika",
+      "name_ja": "のれん サイダー",
+      "name_zh": "汽水主题 门帘",
+      "category_id": "fabric_goods",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 3960,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-noren.jpg",
+          "thumbnail_path": "images/thumbs/cider-noren.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/noren_makeine01_2.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/noren_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/noren_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-tshirt",
+      "global_product_id": "cider-tshirt",
+      "character_id": "komari-chika",
+      "name_ja": "Tシャツ サイダー",
+      "name_zh": "汽水主题 T恤",
+      "category_id": "apparel",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-tshirt.jpg",
+          "thumbnail_path": "images/thumbs/cider-tshirt.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/tshirt_makeine01_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-tote",
+      "global_product_id": "cider-tote",
+      "character_id": "komari-chika",
+      "name_ja": "トートバッグ サイダー",
+      "name_zh": "汽水主题 托特包",
+      "category_id": "bag",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-tote.jpg",
+          "thumbnail_path": "images/thumbs/cider-tote.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/totebag_makeine01_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cider-rubbermat",
+      "global_product_id": "cider-rubbermat",
+      "character_id": "komari-chika",
+      "name_ja": "ラバーマット サイダー",
+      "name_zh": "汽水主题 橡胶桌垫",
+      "category_id": "stationery",
+      "campaign_id": "curtain-damashii-cider-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-07-09",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/cider-rubbermat.jpg",
+          "thumbnail_path": "images/thumbs/cider-rubbermat.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/rubbermat_makeine01_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine01/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine01/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "サイダー",
+        "汽水主题",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-trading-badge",
+      "global_product_id": "angel-devil-trading-badge",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディング缶バッジBOX（天使＆悪魔）11個入り",
+      "name_zh": "天使与恶魔 随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 11
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine02_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-stand-komari",
+      "global_product_id": "angel-stand-komari",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルスタンド 小鞠知花／天使",
+      "name_zh": "天使主题 亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 1210,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/angel-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/astand_makeine13_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/astand_makeine13/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/astand_makeine13/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-keychain-komari",
+      "global_product_id": "angel-keychain-komari",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルキーホルダー 小鞠知花／天使",
+      "name_zh": "天使主题 亚克力挂件 小鞠知花",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-keychain-komari.jpg",
+          "thumbnail_path": "images/thumbs/angel-keychain-komari.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/keyholderacr_makeine13_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine13/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine13/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-block-komari",
+      "global_product_id": "angel-block-komari",
+      "character_id": "komari-chika",
+      "name_ja": "ダイカットアクリルブロック 小鞠知花／天使",
+      "name_zh": "天使主题 异形亚克力块 小鞠知花",
+      "category_id": "acrylic_art",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-block-komari.jpg",
+          "thumbnail_path": "images/thumbs/angel-block-komari.webp",
+          "role": "product",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/ablock_makeine13_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine13/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine13/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-noren",
+      "global_product_id": "angel-devil-noren",
+      "character_id": "komari-chika",
+      "name_ja": "のれん 天使＆悪魔",
+      "name_zh": "天使与恶魔 门帘",
+      "category_id": "fabric_goods",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 3960,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-noren.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-noren.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/noren_makeine02_heya.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/noren_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/noren_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-tshirt",
+      "global_product_id": "angel-devil-tshirt",
+      "character_id": "komari-chika",
+      "name_ja": "Tシャツ 天使＆悪魔",
+      "name_zh": "天使与恶魔 T恤",
+      "category_id": "apparel",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-tshirt.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-tshirt.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/tshirt_makeine02_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-tote",
+      "global_product_id": "angel-devil-tote",
+      "character_id": "komari-chika",
+      "name_ja": "トートバッグ 天使＆悪魔",
+      "name_zh": "天使与恶魔 托特包",
+      "category_id": "bag",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-tote.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-tote.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/totebag_makeine02_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "angel-devil-rubbermat",
+      "global_product_id": "angel-devil-rubbermat",
+      "character_id": "komari-chika",
+      "name_ja": "ラバーマット 天使＆悪魔",
+      "name_zh": "天使与恶魔 橡胶桌垫",
+      "category_id": "stationery",
+      "campaign_id": "curtain-damashii-angel-devil-2025",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "集合图含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-09-29",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/angel-devil-rubbermat.jpg",
+          "thumbnail_path": "images/thumbs/angel-devil-rubbermat.webp",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/rubbermat_makeine02_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "カーテン魂",
+          "phase": "event_sale",
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine02/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "天使＆悪魔",
+        "天使与恶魔",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hobbystock-trading-badge-vol1",
+      "global_product_id": "hobbystock-trading-badge-vol1",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディング缶バッジ vol.1",
+      "name_zh": "随机徽章 vol.1 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "trading-can-badge-vol-1",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花款包含在全12种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 12
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "紙・スチール"
+      },
+      "release_date": "2024-12-01",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/hobbystock-trading-badge-vol1.jpg",
+          "thumbnail_path": "images/thumbs/hobbystock-trading-badge-vol1.webp",
+          "role": "lineup",
+          "source_url": "https://www.1999.co.jp/itbig112/11126516a14.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.1999.co.jp/11126516"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.1999.co.jp/11126516",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hobbystock-trading-badge-vol2",
+      "global_product_id": "hobbystock-trading-badge-vol2",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディング缶バッジ vol.2",
+      "name_zh": "随机徽章 vol.2 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "trading-can-badge-vol-2",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花款包含在全12种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 12
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "紙・スチール"
+      },
+      "release_date": null,
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/hobbystock-trading-badge-vol2.jpg",
+          "thumbnail_path": "images/thumbs/hobbystock-trading-badge-vol2.webp",
+          "role": "lineup",
+          "source_url": "https://s3-ap-northeast-1.amazonaws.com/hobbystock/img/item/00000488112/pc_detail_0.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.hobbystock.jp/item/view/hso-ccg-00010708"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hso-ccg-00010708",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hobbystock-trading-badge-vol3-komari",
+      "global_product_id": "hobbystock-trading-badge-vol3-komari",
+      "character_id": "komari-chika",
+      "name_ja": "トレーディング缶バッジ vol.3",
+      "name_zh": "随机徽章 vol.3 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "trading-can-badge-vol-3",
+      "manufacturer_id": "hobby-stock",
+      "variant": "小鞠知花款包含在全12种中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 12
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "紙・スチール"
+      },
+      "release_date": null,
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/hobbystock-trading-badge-vol3-komari.jpg",
+          "thumbnail_path": "images/thumbs/hobbystock-trading-badge-vol3-komari.webp",
+          "role": "lineup",
+          "source_url": "https://img.amiami.jp/images/product/main/251/GOODS-04592880.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "event_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04592880"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04592880",
+          "type": "official",
+          "checked_at": "2026-10-03"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "随机",
+        "小鞠知花"
       ],
       "notes": null
     }
