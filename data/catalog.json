@@ -8060,7 +8060,7 @@
     },
     {
       "id": "gagaga-J20210097",
-      "global_product_id": "gagaga-J20210097",
+      "global_product_id": "gagaga-j20210097",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 アクリルキーホルダーセット",
       "name_zh": "原作亚克力挂件套装",
@@ -8110,14 +8110,14 @@
     },
     {
       "id": "gagaga-J20210101",
-      "global_product_id": "gagaga-J20210101",
+      "global_product_id": "gagaga-j20210101",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 アクリルアートパネル 海水浴",
       "name_zh": "海水浴亚克力艺术板",
       "category_id": "acrylic_art",
       "campaign_id": "gagaga-sea-bathing",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "海水浴",
+      "variant": "图案包含小鞠知花",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -8160,10 +8160,10 @@
     },
     {
       "id": "gagaga-J20210104",
-      "global_product_id": "gagaga-J20210104",
+      "global_product_id": "gagaga-j20210104",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 ヒロインピンナップタペストリー 小鞠知花",
-      "name_zh": "女主角Pin-up挂毯 小鞠知花",
+      "name_zh": "女主角 Pin-up挂毯 小鞠知花",
       "category_id": "tapestry",
       "campaign_id": "heroine-pinup",
       "manufacturer_id": "gagaga-shop-online",
@@ -8210,7 +8210,7 @@
     },
     {
       "id": "gagaga-J20220039",
-      "global_product_id": "gagaga-J20220039",
+      "global_product_id": "gagaga-j20220039",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！3』アクリルキーホルダーセット",
       "name_zh": "小说第3卷亚克力挂件套装",
@@ -8261,7 +8261,7 @@
     },
     {
       "id": "gagaga-J20220040",
-      "global_product_id": "gagaga-J20220040",
+      "global_product_id": "gagaga-j20220040",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 アクリルマグネットセット",
       "name_zh": "小说第3卷亚克力磁贴套装",
@@ -8311,7 +8311,7 @@
     },
     {
       "id": "gagaga-J20220050",
-      "global_product_id": "gagaga-J20220050",
+      "global_product_id": "gagaga-j20220050",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！３』 書影B2タペストリー",
       "name_zh": "小说第3卷封面B2挂毯",
@@ -8361,7 +8361,7 @@
     },
     {
       "id": "gagaga-J20220054",
-      "global_product_id": "gagaga-J20220054",
+      "global_product_id": "gagaga-j20220054",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！ 3』 アクリルアートパネル ～事情を知らないやつから見たら、これってまるで学園祭デート～",
       "name_zh": "小说第3卷亚克力艺术板 学园祭约会",
@@ -8411,14 +8411,14 @@
     },
     {
       "id": "gagaga-J20230036",
-      "global_product_id": "gagaga-J20230036",
+      "global_product_id": "gagaga-j20230036",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』JR東海コラボイラスト ミニタペストリー",
       "name_zh": "JR东海联动插图迷你挂毯",
       "category_id": "tapestry",
       "campaign_id": "jr-central-oshi-tabi-2023",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "小鞠知花",
+      "variant": "图案包含小鞠知花",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -8461,7 +8461,7 @@
     },
     {
       "id": "gagaga-J20230061",
-      "global_product_id": "gagaga-J20230061",
+      "global_product_id": "gagaga-j20230061",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！ 6』アクリルキーホルダーセット",
       "name_zh": "小说第6卷亚克力挂件套装",
@@ -8511,7 +8511,7 @@
     },
     {
       "id": "gagaga-J20250006",
-      "global_product_id": "gagaga-J20250006",
+      "global_product_id": "gagaga-j20250006",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』アクリルキーホルダー 小鞠知花",
       "name_zh": "原作等身亚克力挂件 小鞠知花",
@@ -8561,7 +8561,7 @@
     },
     {
       "id": "gagaga-J20250021",
-      "global_product_id": "gagaga-J20250021",
+      "global_product_id": "gagaga-j20250021",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！SSS』アクリルアートパネル 小鞠知花",
       "name_zh": "小说SSS亚克力艺术板 小鞠知花",
@@ -8611,7 +8611,7 @@
     },
     {
       "id": "gagaga-J20250029",
-      "global_product_id": "gagaga-J20250029",
+      "global_product_id": "gagaga-j20250029",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！ 8』 アクリルアートパネル ～家族サービス～",
       "name_zh": "小说第8卷亚克力艺术板 家庭服务",
@@ -8661,7 +8661,7 @@
     },
     {
       "id": "gagaga-J20250031",
-      "global_product_id": "gagaga-J20250031",
+      "global_product_id": "gagaga-j20250031",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！8』アクリルキーホルダーセット",
       "name_zh": "小说第8卷亚克力挂件套装",
@@ -8712,14 +8712,14 @@
     },
     {
       "id": "gagaga-J20250040-komari",
-      "global_product_id": "gagaga-J20250040-komari",
+      "global_product_id": "gagaga-j20250040-komari",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
-      "name_zh": "竹岛水族馆联动随机徽章 小鞠知花款",
+      "name_zh": "竹岛水族馆联动 随机徽章 小鞠知花款",
       "category_id": "can_badge",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "小鞠知花",
+      "variant": "小鞠知花款包含在随机阵容中",
       "sale_format": {
         "type": "random",
         "total_variants": null
@@ -8762,10 +8762,10 @@
     },
     {
       "id": "gagaga-J20250042",
-      "global_product_id": "gagaga-J20250042",
+      "global_product_id": "gagaga-j20250042",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボアクリルキーホルダーセット B",
-      "name_zh": "竹岛水族馆联动亚克力挂件套装 B",
+      "name_zh": "竹岛水族馆联动 亚克力挂件套装 B",
       "category_id": "acrylic_keychain",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
@@ -8812,10 +8812,10 @@
     },
     {
       "id": "gagaga-J20250045",
-      "global_product_id": "gagaga-J20250045",
+      "global_product_id": "gagaga-j20250045",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボステッカーセット B",
-      "name_zh": "竹岛水族馆联动贴纸套装 B",
+      "name_zh": "竹岛水族馆联动 贴纸套装 B",
       "category_id": "sticker",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
@@ -8862,10 +8862,10 @@
     },
     {
       "id": "gagaga-J20250050",
-      "global_product_id": "gagaga-J20250050",
+      "global_product_id": "gagaga-j20250050",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボアクリルスタンド 小鞠知花",
-      "name_zh": "竹岛水族馆联动亚克力立牌 小鞠知花",
+      "name_zh": "竹岛水族馆联动 亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
@@ -8912,10 +8912,10 @@
     },
     {
       "id": "gagaga-J20250056",
-      "global_product_id": "gagaga-J20250056",
+      "global_product_id": "gagaga-j20250056",
       "character_id": "komari-chika",
-      "name_ja": "竹島水族館コラボ クリアファイル A",
-      "name_zh": "竹岛水族馆联动透明文件夹 A",
+      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボクリアファイル A",
+      "name_zh": "竹岛水族馆联动 透明文件夹 A",
       "category_id": "clear_file",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
@@ -8964,14 +8964,14 @@
     },
     {
       "id": "gagaga-J20260006",
-      "global_product_id": "gagaga-J20260006",
+      "global_product_id": "gagaga-j20260006",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー ～パジャマパーティー～",
       "name_zh": "小说8.5卷彩页挂毯 睡衣派对",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "睡衣派对",
+      "variant": "图案包含小鞠知花",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -9014,14 +9014,14 @@
     },
     {
       "id": "gagaga-J20260009",
-      "global_product_id": "gagaga-J20260009",
+      "global_product_id": "gagaga-j20260009",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル ～パジャマパーティー～",
       "name_zh": "小说8.5卷亚克力艺术板 睡衣派对",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "睡衣派对",
+      "variant": "图案包含小鞠知花",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -9064,7 +9064,7 @@
     },
     {
       "id": "gagaga-J20260012",
-      "global_product_id": "gagaga-J20260012",
+      "global_product_id": "gagaga-j20260012",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルキーホルダーセット",
       "name_zh": "小说8.5卷亚克力挂件套装",
@@ -9114,14 +9114,14 @@
     },
     {
       "id": "gagaga-J2026001401",
-      "global_product_id": "gagaga-J2026001401",
+      "global_product_id": "gagaga-j2026001401",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』書影アクリルキーホルダー（1）",
       "name_zh": "小说封面亚克力挂件（1）",
       "category_id": "acrylic_keychain",
       "campaign_id": "book-cover-series",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "封面图（1）",
+      "variant": "封面图（1）包含小鞠知花",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -9165,10 +9165,10 @@
     },
     {
       "id": "gagaga-J20260017",
-      "global_product_id": "gagaga-J20260017",
+      "global_product_id": "gagaga-j20260017",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 アクリルスタンド 小鞠知花",
-      "name_zh": "小鞠知花 亚克力立牌",
+      "name_zh": "原作亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "gagaga-original-2026",
       "manufacturer_id": "gagaga-shop-online",
@@ -9215,10 +9215,10 @@
     },
     {
       "id": "gagaga-J20260022",
-      "global_product_id": "gagaga-J20260022",
+      "global_product_id": "gagaga-j20260022",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』×『お散歩は季節をまとって。』 アクリルキーホルダー 小鞠知花",
-      "name_zh": "散步与季节同行 亚克力挂件 小鞠知花",
+      "name_zh": "散步披上季节 亚克力挂件 小鞠知花",
       "category_id": "acrylic_keychain",
       "campaign_id": "osanpo-kisetsu",
       "manufacturer_id": "gagaga-shop-online",
@@ -9265,7 +9265,7 @@
     },
     {
       "id": "gagaga-J20260044",
-      "global_product_id": "gagaga-J20260044",
+      "global_product_id": "gagaga-j20260044",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 アニメ公式ガイド 複製原画",
       "name_zh": "动画官方指南复制原画",
@@ -9315,7 +9315,7 @@
     },
     {
       "id": "gagaga-J20260045",
-      "global_product_id": "gagaga-J20260045",
+      "global_product_id": "gagaga-j20260045",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 アニメ公式ガイド タペストリー",
       "name_zh": "动画官方指南挂毯",
@@ -9365,14 +9365,14 @@
     },
     {
       "id": "gagaga-J20260046",
-      "global_product_id": "gagaga-J20260046",
+      "global_product_id": "gagaga-j20260046",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 アニメ公式ガイド ビッグアクリルスタンド",
       "name_zh": "动画官方指南大型亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "anime-official-guide",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "小鞠知花",
+      "variant": "图案包含小鞠知花",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -9415,10 +9415,10 @@
     },
     {
       "id": "gagaga-J20260049",
-      "global_product_id": "gagaga-J20260049",
+      "global_product_id": "gagaga-j20260049",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 アニメ公式ガイド ホログラムステッカー 小鞠知花",
-      "name_zh": "动画官方指南全息贴纸 小鞠知花",
+      "name_zh": "动画官方指南镭射贴纸 小鞠知花",
       "category_id": "sticker",
       "campaign_id": "anime-official-guide",
       "manufacturer_id": "gagaga-shop-online",
@@ -13210,7 +13210,7 @@
       "global_product_id": "sega-nesoberi-plush-komari",
       "character_id": "komari-chika",
       "name_ja": "寝そべり ぬいぐるみ（EX） 小鞠知花",
-      "name_zh": "SEGA 趴趴毛绒玩偶（EX）小鞠知花",
+      "name_zh": "SEGA 趴趴毛绒玩偶（EX） 小鞠知花",
       "category_id": "plush",
       "campaign_id": "sega-nesoberi-plush-2024",
       "manufacturer_id": "sega-fave",
@@ -22768,14 +22768,14 @@
     },
     {
       "id": "retro-cafe-hologram-badge",
-      "global_product_id": "retro-cafe-hologram-badge-kaju",
+      "global_product_id": "retro-cafe-hologram-badge",
       "character_id": "komari-chika",
-      "name_ja": "ホログラムカンバッジ 温水佳樹 レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 镭射徽章 温水佳树",
+      "name_ja": "ホログラムカンバッジ(ランダム) レトロカフェ ver.",
+      "name_zh": "复古咖啡厅 随机镭射徽章",
       "category_id": "can_badge",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
-      "variant": "全10款中小鞠知花（含有名／无名2款）",
+      "variant": "全10款中包含小鞠知花（有名／无名2款）",
       "sale_format": {
         "type": "random",
         "total_variants": 10
@@ -22975,7 +22975,7 @@
       "category_id": "can_badge",
       "campaign_id": "bellhouse-gyugyutto-2025",
       "manufacturer_id": "bell-house",
-      "variant": "全7款中包含温水佳树",
+      "variant": "全7款中包含小鞠知花",
       "sale_format": {
         "type": "random",
         "total_variants": 7
