@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-02",
+  "updated_at": "2026-10-05",
   "manufacturers": [
     {
       "id": "andblue",
@@ -330,6 +330,60 @@
       "aliases": [
         "有限会社ウッドボーイ"
       ]
+    },
+    {
+      "id": "azumaker",
+      "name_zh": "Azumaker",
+      "name_ja": "アズメーカー",
+      "aliases": [
+        "きゃらON！"
+      ]
+    },
+    {
+      "id": "bushiroad",
+      "name_zh": "ブシロード",
+      "name_ja": "ブシロード",
+      "aliases": []
+    },
+    {
+      "id": "contents-seed",
+      "name_zh": "コンテンツシード",
+      "name_ja": "コンテンツシード",
+      "aliases": []
+    },
+    {
+      "id": "ensky",
+      "name_zh": "エンスカイ",
+      "name_ja": "エンスカイ",
+      "aliases": []
+    },
+    {
+      "id": "hobby-japan",
+      "name_zh": "HobbyJAPAN",
+      "name_ja": "ホビージャパン",
+      "aliases": [
+        "HJ"
+      ]
+    },
+    {
+      "id": "philter",
+      "name_zh": "Philter",
+      "name_ja": "フィルター・インク",
+      "aliases": []
+    },
+    {
+      "id": "takara-tomy-arts",
+      "name_zh": "Takara Tomy Arts",
+      "name_ja": "タカラトミーアーツ",
+      "aliases": [
+        "T-ARTS"
+      ]
+    },
+    {
+      "id": "tosyo",
+      "name_zh": "TOSYO",
+      "name_ja": "TOSYO",
+      "aliases": []
     }
   ]
 }
