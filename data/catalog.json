@@ -4,7 +4,7 @@
   "catalog": {
     "title": "小鞠知花制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含小鞠知花的官方实体制品",
-    "updated_at": "2026-10-05",
+    "updated_at": "2026-10-06",
     "status": "published"
   },
   "character": {
@@ -25569,6 +25569,728 @@
         "随机"
       ],
       "notes": "同时购买痛印与印章盒，每套随机赠送1枚；数量有限，非卖品。"
+    },
+    {
+      "id": "movic-standard-acrylic-stand-chika",
+      "global_product_id": "movic-standard-acrylic-stand-chika",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルスタンド/小鞠 知花",
+      "name_zh": "MOVIC 亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "movic-standard-2024",
+      "manufacturer_id": "movic",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": "2024-09-27",
+      "list_price_yen": 1100,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/movic-05459-00350-00004.jpg",
+          "thumbnail_path": "images/thumbs/movic-standard-acrylic-stand-chika.webp",
+          "role": "product",
+          "source_url": "https://www.movic.jp/img/goods/L/05459-00350-00004-l.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "MOVIC",
+          "phase": "general_sale",
+          "url": "https://www.movic.jp/shop/g/g05459-00350-00004/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.movic.jp/shop/g/g05459-00350-00004/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "MOVIC",
+        "亚克力立牌",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "movic-standard-acrylic-keychain-chika",
+      "global_product_id": "movic-standard-acrylic-keychain-chika",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルキーホルダー/小鞠 知花",
+      "name_zh": "MOVIC 亚克力挂件 小鞠知花",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "movic-standard-2024",
+      "manufacturer_id": "movic",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": "2024-09-27",
+      "list_price_yen": 715,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/movic-05459-00220-00004.jpg",
+          "thumbnail_path": "images/thumbs/movic-standard-acrylic-keychain-chika.webp",
+          "role": "product",
+          "source_url": "https://www.movic.jp/img/goods/L/05459-00220-00004-l.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "MOVIC",
+          "phase": "general_sale",
+          "url": "https://www.movic.jp/shop/g/g05459-00220-00004/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.movic.jp/shop/g/g05459-00220-00004/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "MOVIC",
+        "亚克力挂件",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "animate-2990535",
+      "global_product_id": "animate-2990535",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルフィギュアスタンド・小鞠知花",
+      "name_zh": "线稿亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": "2025-01-01",
+      "list_price_yen": 1760,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/animate-2990535.jpg",
+          "thumbnail_path": "images/thumbs/animate-2990535.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573512235834_1_1730282816.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/2990535/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/2990535/",
+          "type": "retailer",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "线稿",
+        "亚克力立牌",
+        "小鞠知花"
+      ],
+      "notes": "Animate 商品页标注发售期：2025年01月中 発売"
+    },
+    {
+      "id": "extracurricular-event-b2-tapestry",
+      "global_product_id": "extracurricular-event-b2-tapestry",
+      "character_id": "komari-chika",
+      "name_ja": "B2タペストリー",
+      "name_zh": "文艺部课外活动 活动主视觉 B2挂画",
+      "category_id": "tapestry",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 3000,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10116_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-b2-tapestry.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10116_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-clear-file",
+      "global_product_id": "extracurricular-event-clear-file",
+      "character_id": "komari-chika",
+      "name_ja": "A4クリアファイル",
+      "name_zh": "文艺部课外活动 活动主视觉 A4透明文件夹",
+      "category_id": "clear_file",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10114_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-clear-file.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10114_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-random-badges",
+      "global_product_id": "extracurricular-event-random-badges",
+      "character_id": "komari-chika",
+      "name_ja": "ランダム缶バッジ（全10種）",
+      "name_zh": "文艺部课外活动 活动主视觉 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含小鞠知花",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10113_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-random-badges.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10113_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-random-bromides",
+      "global_product_id": "extracurricular-event-random-bromides",
+      "character_id": "komari-chika",
+      "name_ja": "ランダムブロマイド（全5種）",
+      "name_zh": "文艺部课外活动 活动主视觉 随机照片卡",
+      "category_id": "card",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含小鞠知花",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10112_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-random-bromides.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10112_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-muffler-towel",
+      "global_product_id": "extracurricular-event-muffler-towel",
+      "character_id": "komari-chika",
+      "name_ja": "マフラータオル",
+      "name_zh": "文艺部课外活动 活动主视觉 围巾毛巾",
+      "category_id": "fabric_goods",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10111_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-muffler-towel.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10111_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-op-acrylic-charms",
+      "global_product_id": "extracurricular-event-op-acrylic-charms",
+      "character_id": "komari-chika",
+      "name_ja": "ランダムアクリルチャーム《OP》（全13種）",
+      "name_zh": "文艺部课外活动 OP画面 随机亚克力挂件",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含小鞠知花",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 13
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 700,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10109_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-op-acrylic-charms.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10109_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-animation-fine-graph",
+      "global_product_id": "extracurricular-event-animation-fine-graph",
+      "character_id": "komari-chika",
+      "name_ja": "アニメ化記念ビジュアル キャラファイングラフ",
+      "name_zh": "文艺部课外活动 动画化纪念视觉图 高精细复制画",
+      "category_id": "poster",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 14000,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10106_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-animation-fine-graph.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10106_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-build-divide-booster",
+      "global_product_id": "extracurricular-event-build-divide-booster",
+      "character_id": "komari-chika",
+      "name_ja": "ビルディバイド -ブライト- ブースターパック TVアニメ「負けヒロインが多すぎる！」",
+      "name_zh": "文艺部课外活动 Build Divide Bright 动画版补充包",
+      "category_id": "trading_card",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含小鞠知花",
+      "sale_format": {
+        "type": "random",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 330,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10105_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-build-divide-booster.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10105_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-acrylic-stand-chika",
+      "global_product_id": "extracurricular-event-acrylic-stand-chika",
+      "character_id": "komari-chika",
+      "name_ja": "アクリルスタンド 小鞠知花",
+      "name_zh": "文艺部课外活动 亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 1400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10115_photo_4.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-acrylic-stand-chika.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10115_photo_4"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "亚克力立牌",
+        "小鞠知花"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-ed-postcard-set-chika",
+      "global_product_id": "extracurricular-event-ed-postcard-set-chika",
+      "character_id": "komari-chika",
+      "name_ja": "ポストカードセット《ED》 小鞠知花",
+      "name_zh": "文艺部课外活动 ED明信片套装 小鞠知花",
+      "category_id": "card",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 1200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10108_photo_2.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-ed-postcard-set-chika.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10108_photo_2"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "ED",
+        "明信片",
+        "小鞠知花"
+      ],
+      "notes": "使用对应角色ED画面；每套8枚。"
+    },
+    {
+      "id": "extracurricular-losing-heroine-b2-tapestry-chika",
+      "global_product_id": "extracurricular-losing-heroine-b2-tapestry-chika",
+      "character_id": "komari-chika",
+      "name_ja": "負けヒロインビジュアル B2タペストリー 小鞠知花",
+      "name_zh": "文艺部课外活动 败犬女主视觉图 B2挂画 小鞠知花",
+      "category_id": "tapestry",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-07",
+      "list_price_yen": 3000,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10104_photo_2.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-losing-heroine-b2-tapestry-chika.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10104_photo_2"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "事后通販",
+          "phase": "post_event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "败犬女主视觉图",
+        "B2挂画",
+        "小鞠知花"
+      ],
+      "notes": "官方标注为事后通販限定商品。"
     }
   ]
 }

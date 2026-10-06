@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-06",
   "campaigns": [
     {
       "id": "after-kyomaf",
@@ -133,8 +133,8 @@
     },
     {
       "id": "bushiroad-petatto-windup-rubber-2025",
-      "name_zh": "Bushiroad ぺたっとねじまき胶挂系列",
-      "name_ja": "ぺたっとねじまきらばーすとらっぷ",
+      "name_zh": "Bushiroad 扭簧贴贴橡胶挂件系列",
+      "name_ja": "ブシカプ！ぺたっとねじまきらばーすとらっぷ",
       "aliases": [
         "ブシカプ！"
       ],
@@ -143,10 +143,13 @@
     },
     {
       "id": "chara-in-line-art",
-      "name_zh": "キャラ印 线稿系列",
+      "name_zh": "Chara-in 线稿系列",
       "name_ja": "キャラ印 線画シリーズ",
-      "aliases": [],
-      "year": 2025,
+      "aliases": [
+        "TOSYO GOODS",
+        "线稿系列"
+      ],
+      "year": 2024,
       "official_url": "https://tosyo-goods.jp/collections/charain_makeine"
     },
     {
@@ -781,14 +784,14 @@
     },
     {
       "id": "movic-standard-2024",
-      "name_zh": "Movic 角色制品 2024",
+      "name_zh": "MOVIC 动画版常规商品 2024",
       "name_ja": "ムービック キャラクターグッズ 2024",
       "aliases": [
         "ころっと",
         "負け顔アイマスク"
       ],
       "year": 2024,
-      "official_url": "https://www.animate-onlineshop.jp/pd/2929231/"
+      "official_url": "https://www.movic.jp/shop/r/r103174_sspd/"
     },
     {
       "id": "bushiroad-clear-card-collection-2025",
@@ -872,6 +875,14 @@
       ],
       "year": 2026,
       "official_url": "https://shop.toysanta.jp/?pid=190203881"
+    },
+    {
+      "id": "literature-club-extracurricular-2025",
+      "name_zh": "杜鹃花高中（ツワブキ高校）文艺部课外活动",
+      "name_ja": "ツワブキ高校文芸部課外活動",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://makeine-anime.com/event/"
     }
   ]
 }
