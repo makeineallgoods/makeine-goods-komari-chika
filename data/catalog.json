@@ -4,7 +4,7 @@
   "catalog": {
     "title": "小鞠知花制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含小鞠知花的官方实体制品",
-    "updated_at": "2026-10-06",
+    "updated_at": "2026-10-07",
     "status": "published"
   },
   "character": {
@@ -19,7 +19,7 @@
       "id": "amnibus-beach-date-100mm-badge-komari",
       "global_product_id": "amnibus-beach-date-100mm-badge-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 ビーチデートver. 100mm缶バッジ",
+      "name_ja": "描き下ろし 小鞠知花 ビーチデートver. 100mm缶バッジ",
       "name_zh": "海滩约会 100mm徽章 小鞠知花",
       "category_id": "can_badge",
       "campaign_id": "beach-date-2026",
@@ -42,7 +42,7 @@
           "path": "images/items/amnibus-beach-date-100mm-badge-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-100mm-badge-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260217190108_69943c64d7aa03.10795341.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217190108_69943c64d7aa03.10795341.jpg"
         }
       ],
       "sales": [
@@ -54,9 +54,9 @@
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115782",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -65,7 +65,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-acrylic-card",
@@ -123,7 +123,7 @@
       "id": "amnibus-beach-date-big-keychain-komari",
       "global_product_id": "amnibus-beach-date-big-keychain-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 ビーチデートver. BIGアクリルキーホルダー",
+      "name_ja": "描き下ろし 小鞠知花 ビーチデートver. BIGアクリルキーホルダー",
       "name_zh": "海滩约会 BIG亚克力挂件 小鞠知花",
       "category_id": "acrylic_keychain",
       "campaign_id": "beach-date-2026",
@@ -146,7 +146,7 @@
           "path": "images/items/amnibus-beach-date-big-keychain-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-big-keychain-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260217190732_69943de4959d96.63014691.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217190732_69943de4959d96.63014691.jpg"
         }
       ],
       "sales": [
@@ -158,9 +158,9 @@
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115778",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -169,13 +169,13 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-big-silhouette-tshirt-komari",
       "global_product_id": "amnibus-beach-date-big-silhouette-tshirt-komari",
       "character_id": "komari-chika",
-      "name_ja": "小鞠 知花 ビーチデートver. 着用BIGシルエットTシャツ",
+      "name_ja": "小鞠知花 ビーチデートver. 着用BIGシルエットTシャツ",
       "name_zh": "海滩约会 宽松T恤 小鞠知花",
       "category_id": "apparel",
       "campaign_id": "beach-date-2026",
@@ -198,7 +198,7 @@
           "path": "images/items/amnibus-beach-date-big-silhouette-tshirt-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-big-silhouette-tshirt-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260217185312_69943a88488164.90338513.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217185312_69943a88488164.90338513.jpg"
         }
       ],
       "sales": [
@@ -210,9 +210,9 @@
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/103724",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -221,13 +221,13 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-big-stand-komari",
       "global_product_id": "amnibus-beach-date-big-stand-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 ビーチデートver. BIGアクリルスタンド",
+      "name_ja": "描き下ろし 小鞠知花 ビーチデートver. BIGアクリルスタンド",
       "name_zh": "海滩约会 BIG亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "beach-date-2026",
@@ -250,7 +250,7 @@
           "path": "images/items/amnibus-beach-date-big-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-big-stand-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260217185908_69943beca1cdf1.63999052.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217185908_69943beca1cdf1.63999052.jpg"
         }
       ],
       "sales": [
@@ -262,9 +262,9 @@
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115770",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -273,7 +273,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-bromide",
@@ -331,7 +331,7 @@
       "id": "amnibus-beach-date-extra-large-stand-komari",
       "global_product_id": "amnibus-beach-date-extra-large-stand-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 ビーチデートver. 特大アクリルスタンド",
+      "name_ja": "描き下ろし 小鞠知花 ビーチデートver. 特大アクリルスタンド",
       "name_zh": "海滩约会 特大亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "beach-date-2026",
@@ -354,7 +354,7 @@
           "path": "images/items/amnibus-beach-date-extra-large-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-extra-large-stand-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260217185811_69943bb3ed37b2.18575476.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217185811_69943bb3ed37b2.18575476.jpg"
         }
       ],
       "sales": [
@@ -366,9 +366,9 @@
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115774",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -377,7 +377,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-beach-date-glitter-badge",
@@ -539,7 +539,7 @@
       "id": "amnibus-beach-date-life-size-tapestry-komari",
       "global_product_id": "amnibus-beach-date-life-size-tapestry-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 ビーチデートver. 等身大タペストリー",
+      "name_ja": "描き下ろし 小鞠知花 ビーチデートver. 等身大タペストリー",
       "name_zh": "海滩约会 等身挂毯 小鞠知花",
       "category_id": "tapestry",
       "campaign_id": "beach-date-2026",
@@ -562,7 +562,7 @@
           "path": "images/items/amnibus-beach-date-life-size-tapestry-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-beach-date-life-size-tapestry-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260217185413_69943ac5a492d3.35379432.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260217185413_69943ac5a492d3.35379432.jpg"
         }
       ],
       "sales": [
@@ -574,9 +574,9 @@
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html",
+          "url": "https://amnibus.com/products/detail/115786",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -585,13 +585,13 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页与主图核对。"
     },
     {
       "id": "amnibus-chibitoko-3way-badge-komari",
       "global_product_id": "amnibus-chibitoko-3way-badge-komari",
       "character_id": "komari-chika",
-      "name_ja": "小鞠 知花 ちびとこ 3WAY缶バッジ",
+      "name_ja": "小鞠知花 ちびとこ 3WAY缶バッジ",
       "name_zh": "ちびとこ 3WAY徽章 小鞠知花",
       "category_id": "can_badge",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -693,7 +693,7 @@
       "id": "amnibus-chibitoko-badge-3set",
       "global_product_id": "amnibus-chibitoko-badge-3set",
       "character_id": "komari-chika",
-      "name_ja": "八奈見 杏菜＆焼塩 檸檬＆小鞠 知花 ちびとこ 缶バッジ3個セット",
+      "name_ja": "八奈見杏菜＆焼塩檸檬＆小鞠知花 ちびとこ 缶バッジ3個セット",
       "name_zh": "ちびとこ 三女主徽章三枚套装",
       "category_id": "can_badge",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -744,7 +744,7 @@
       "id": "amnibus-chibitoko-group-deskmat",
       "global_product_id": "amnibus-chibitoko-group-deskmat",
       "character_id": "komari-chika",
-      "name_ja": "八奈見 杏菜＆焼塩 檸檬＆小鞠 知花 マルチデスクマット",
+      "name_ja": "八奈見杏菜＆焼塩檸檬＆小鞠知花 マルチデスクマット",
       "name_zh": "ちびとこ 三女主多功能桌垫",
       "category_id": "stationery",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -795,7 +795,7 @@
       "id": "amnibus-chibitoko-illustration-cards-a",
       "global_product_id": "amnibus-chibitoko-illustration-cards-a",
       "character_id": "komari-chika",
-      "name_ja": "八奈見 杏菜＆焼塩 檸檬＆小鞠 知花 ちびとこ イラストカード3枚セットver.A",
+      "name_ja": "八奈見杏菜＆焼塩檸檬＆小鞠知花 ちびとこ イラストカード3枚セットver.A",
       "name_zh": "ちびとこ 三女主插画卡三枚套装 A",
       "category_id": "card",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -846,7 +846,7 @@
       "id": "amnibus-chibitoko-illustration-cards-b",
       "global_product_id": "amnibus-chibitoko-illustration-cards-b",
       "character_id": "komari-chika",
-      "name_ja": "八奈見 杏菜＆焼塩 檸檬＆小鞠 知花 ちびとこ イラストカード3枚セットver.B",
+      "name_ja": "八奈見杏菜＆焼塩檸檬＆小鞠知花 ちびとこ イラストカード3枚セットver.B",
       "name_zh": "ちびとこ 三女主插画卡三枚套装 B",
       "category_id": "card",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -897,7 +897,7 @@
       "id": "amnibus-chibitoko-lunch-tote",
       "global_product_id": "amnibus-chibitoko-lunch-tote",
       "character_id": "komari-chika",
-      "name_ja": "八奈見 杏菜＆焼塩 檸檬＆小鞠 知花 ちびとこ ランチトートバッグ",
+      "name_ja": "八奈見杏菜＆焼塩檸檬＆小鞠知花 ちびとこ ランチトートバッグ",
       "name_zh": "ちびとこ 三女主午餐托特包",
       "category_id": "bag",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -999,7 +999,7 @@
       "id": "amnibus-chibitoko-matte-badge-box-bonus",
       "global_product_id": "amnibus-chibitoko-matte-badge-box-bonus",
       "character_id": "komari-chika",
-      "name_ja": "八奈見 杏菜＆焼塩 檸檬＆小鞠 知花 ちびとこ マット缶バッジ AMNIBUS限定特典",
+      "name_ja": "八奈見杏菜＆焼塩檸檬＆小鞠知花 ちびとこ マット缶バッジ AMNIBUS限定特典",
       "name_zh": "ちびとこ 三女主磨砂徽章 BOX预约特典",
       "category_id": "can_badge",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -1050,7 +1050,7 @@
       "id": "amnibus-chibitoko-parts-big-stand-komari",
       "global_product_id": "amnibus-chibitoko-parts-big-stand-komari",
       "character_id": "komari-chika",
-      "name_ja": "小鞠 知花 ちびとこ パーツ付きBIGアクリルスタンド",
+      "name_ja": "小鞠知花 ちびとこ パーツ付きBIGアクリルスタンド",
       "name_zh": "ちびとこ 带配件BIG亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -1152,7 +1152,7 @@
       "id": "amnibus-chibitoko-trading-card-holder",
       "global_product_id": "amnibus-chibitoko-trading-card-holder",
       "character_id": "komari-chika",
-      "name_ja": "八奈見 杏菜＆焼塩 檸檬＆小鞠 知花 ちびとこ トレカホルダー",
+      "name_ja": "八奈見杏菜＆焼塩檸檬＆小鞠知花 ちびとこ トレカホルダー",
       "name_zh": "ちびとこ 三女主集换卡套",
       "category_id": "accessory",
       "campaign_id": "amnibus-chibitoko-2024",
@@ -1275,29 +1275,29 @@
         {
           "path": "images/items/amnibus-jr1-big-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-jr1-big-stand-komari.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/7075/16064-7075-5375aa7e39cfa409cc90c3c7e06e4cd0-1152x648.jpg"
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20241126114345_674535e18bcb62.89688581.jpg"
         }
       ],
       "sales": [
         {
           "seller": "AMNIBUS",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000007075.000016064.html"
+          "url": "https://amnibus.com/products/detail/72868"
         }
       ],
       "sources": [
         {
-          "url": "https://prtimes.jp/main/html/rd/p/000007075.000016064.html",
+          "url": "https://amnibus.com/products/detail/72868",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "2025年1月8日开始接受预订。"
+      "notes": "已按 AMNIBUS 官方单品页与主图核对。"
     },
     {
       "id": "amnibus-jr1-chibi-matte-badge",
@@ -1550,56 +1550,6 @@
       "notes": "2025年1月8日开始接受预订。"
     },
     {
-      "id": "amnibus-jr2-acrylic-card",
-      "global_product_id": "amnibus-jr2-acrylic-card",
-      "character_id": "komari-chika",
-      "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルカード",
-      "name_zh": "JR 东海第二弹新绘随机亚克力卡",
-      "category_id": "card",
-      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
-      "manufacturer_id": "arma-bianca",
-      "variant": "随机款式包含小鞠知花",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 9
-      },
-      "spec": {
-        "size": "约70×55mm",
-        "material": "アクリル"
-      },
-      "release_date": null,
-      "list_price_yen": 715,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/amnibus-jr2-acrylic-card.jpg",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-7c1cd79bf7a6a1df4c2ec57819d10247-1350x1500.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-jr2-acrylic-card.webp"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "アルマビアンカ",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-01"
-        }
-      ],
-      "tags": [
-        "JR东海",
-        "推し旅"
-      ],
-      "notes": null
-    },
-    {
       "id": "amnibus-jr2-chibi-keychain",
       "global_product_id": "amnibus-jr2-chibi-keychain",
       "character_id": "komari-chika",
@@ -1703,7 +1653,7 @@
       "id": "amnibus-jr2-deskmat-komari",
       "global_product_id": "amnibus-jr2-deskmat-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 駅員ver. 第2弾 マルチデスクマット",
+      "name_ja": "描き下ろし 小鞠知花 駅員ver. 第2弾 マルチデスクマット",
       "name_zh": "JR东海站员第二弹 多功能桌垫 小鞠知花",
       "category_id": "stationery",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -1754,7 +1704,7 @@
       "id": "amnibus-jr2-diecut-sticker-komari",
       "global_product_id": "amnibus-jr2-diecut-sticker-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 駅員ver. 第2弾 ダイカットステッカー",
+      "name_ja": "描き下ろし 小鞠知花 駅員ver. 第2弾 ダイカットステッカー",
       "name_zh": "JR东海站员第二弹 异形贴纸 小鞠知花",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -1856,7 +1806,7 @@
       "id": "amnibus-jr2-double-wire-keychain-komari",
       "global_product_id": "amnibus-jr2-double-wire-keychain-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
+      "name_ja": "描き下ろし 小鞠知花 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
       "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 小鞠知花",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -1907,7 +1857,7 @@
       "id": "amnibus-jr2-extra-large-stand-komari",
       "global_product_id": "amnibus-jr2-extra-large-stand-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 駅員ver. 第2弾 特大アクリルスタンド",
+      "name_ja": "描き下ろし 小鞠知花 駅員ver. 第2弾 特大アクリルスタンド",
       "name_zh": "JR东海站员第二弹 特大亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -1955,56 +1905,6 @@
       "notes": null
     },
     {
-      "id": "amnibus-jr2-glitter-badge",
-      "global_product_id": "amnibus-jr2-glitter-badge",
-      "character_id": "komari-chika",
-      "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディンググリッター缶バッジ",
-      "name_zh": "JR 东海第二弹新绘随机闪粉徽章",
-      "category_id": "can_badge",
-      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
-      "manufacturer_id": "arma-bianca",
-      "variant": "随机款式包含小鞠知花",
-      "sale_format": {
-        "type": "random",
-        "total_variants": 9
-      },
-      "spec": {
-        "size": "直径约56mm",
-        "material": "紙・ブリキ"
-      },
-      "release_date": null,
-      "list_price_yen": 605,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/amnibus-jr2-glitter-badge.jpg",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-7f79795a179c3a20834e583429d5d58c-1350x1500.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-jr2-glitter-badge.webp"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "アルマビアンカ",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-01"
-        }
-      ],
-      "tags": [
-        "JR东海",
-        "推し旅"
-      ],
-      "notes": null
-    },
-    {
       "id": "amnibus-jr2-instant-card",
       "global_product_id": "amnibus-jr2-instant-card",
       "character_id": "komari-chika",
@@ -2032,56 +1932,6 @@
           "role": "lineup",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-52cbeb35cc7db10c05b7d54182ca3a89-1350x1500.jpg",
           "thumbnail_path": "images/thumbs/amnibus-jr2-instant-card.webp"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "アルマビアンカ",
-          "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
-          "type": "official",
-          "checked_at": "2026-10-01"
-        }
-      ],
-      "tags": [
-        "JR东海",
-        "推し旅"
-      ],
-      "notes": null
-    },
-    {
-      "id": "amnibus-jr2-postcards",
-      "global_product_id": "amnibus-jr2-postcards",
-      "character_id": "komari-chika",
-      "name_ja": "描き下ろし 駅員ver. 第2弾 ポストカード3枚セット",
-      "name_zh": "JR 东海第二弹新绘明信片 3 枚套装",
-      "category_id": "card",
-      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
-      "manufacturer_id": "arma-bianca",
-      "variant": "套装包含小鞠知花",
-      "sale_format": {
-        "type": "set",
-        "total_variants": 3
-      },
-      "spec": {
-        "size": "约148×100mm",
-        "material": "紙"
-      },
-      "release_date": null,
-      "list_price_yen": 550,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/amnibus-jr2-postcards.jpg",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-8738b20e6dd3a533983fa35680c4b42a-1350x1500.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-jr2-postcards.webp"
         }
       ],
       "sales": [
@@ -2158,7 +2008,7 @@
       "id": "amnibus-nonhoi-big-stand-komari",
       "global_product_id": "amnibus-nonhoi-big-stand-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 動物とのふれあいver. BIGアクリルスタンド",
+      "name_ja": "描き下ろし 小鞠知花 動物とのふれあいver. BIGアクリルスタンド",
       "name_zh": "动物互动主题 BIG亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "nonhoi-park",
@@ -2181,7 +2031,7 @@
           "path": "images/items/amnibus-nonhoi-big-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-nonhoi-big-stand-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20251001173520_68dce7c88725d6.83096980.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20251001173520_68dce7c88725d6.83096980.jpg"
         }
       ],
       "sales": [
@@ -2193,9 +2043,14 @@
       ],
       "sources": [
         {
+          "url": "https://amnibus.com/products/detail/96244",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2204,7 +2059,7 @@
         "丰桥综合动植物公园",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页核对图片与商品编号。"
     },
     {
       "id": "amnibus-nonhoi-chibi-badge",
@@ -2460,7 +2315,7 @@
       "id": "amnibus-nonhoi-deskmat-komari",
       "global_product_id": "amnibus-nonhoi-deskmat-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 動物とのふれあいver. マルチデスクマット",
+      "name_ja": "描き下ろし 小鞠知花 動物とのふれあいver. マルチデスクマット",
       "name_zh": "动物互动主题 多功能桌垫 小鞠知花",
       "category_id": "stationery",
       "campaign_id": "nonhoi-park",
@@ -2483,7 +2338,7 @@
           "path": "images/items/amnibus-nonhoi-deskmat-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-nonhoi-deskmat-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20251001173038_68dce6ae36bab5.58939075.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20251001173038_68dce6ae36bab5.58939075.jpg"
         }
       ],
       "sales": [
@@ -2495,9 +2350,14 @@
       ],
       "sources": [
         {
+          "url": "https://amnibus.com/products/detail/97246",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2506,13 +2366,13 @@
         "丰桥综合动植物公园",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页核对图片与商品编号。"
     },
     {
       "id": "amnibus-nonhoi-extra-large-stand-komari",
       "global_product_id": "amnibus-nonhoi-extra-large-stand-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 動物とのふれあいver. 特大アクリルスタンド",
+      "name_ja": "描き下ろし 小鞠知花 動物とのふれあいver. 特大アクリルスタンド",
       "name_zh": "动物互动主题 特大亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "nonhoi-park",
@@ -2535,7 +2395,7 @@
           "path": "images/items/amnibus-nonhoi-extra-large-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-nonhoi-extra-large-stand-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20251001173205_68dce705f33394.58769044.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20251001173205_68dce705f33394.58769044.jpg"
         }
       ],
       "sales": [
@@ -2547,9 +2407,14 @@
       ],
       "sources": [
         {
+          "url": "https://amnibus.com/products/detail/97265",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2558,7 +2423,7 @@
         "丰桥综合动植物公园",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页核对图片与商品编号。"
     },
     {
       "id": "amnibus-nonhoi-group-deskmat",
@@ -2668,7 +2533,7 @@
       "id": "amnibus-nonhoi-sns-keychain-komari",
       "global_product_id": "amnibus-nonhoi-sns-keychain-komari",
       "character_id": "komari-chika",
-      "name_ja": "描き下ろし 小鞠 知花 動物とのふれあいver. SNS風BIGアクリルキーホルダー",
+      "name_ja": "描き下ろし 小鞠知花 動物とのふれあいver. SNS風BIGアクリルキーホルダー",
       "name_zh": "动物互动主题 SNS风BIG亚克力挂件 小鞠知花",
       "category_id": "acrylic_keychain",
       "campaign_id": "nonhoi-park",
@@ -2691,7 +2556,7 @@
           "path": "images/items/amnibus-nonhoi-sns-keychain-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-nonhoi-sns-keychain-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20251001174329_68dce9b1209ba0.41953302.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20251001174329_68dce9b1209ba0.41953302.jpg"
         }
       ],
       "sales": [
@@ -2703,9 +2568,14 @@
       ],
       "sources": [
         {
+          "url": "https://amnibus.com/products/detail/97270",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2714,7 +2584,7 @@
         "丰桥综合动植物公园",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 AMNIBUS 官方角色单品页核对图片与商品编号。"
     },
     {
       "id": "amnibus-nonhoi-trading-glitter-badge",
@@ -2893,13 +2763,13 @@
       "release_date": null,
       "list_price_yen": 715,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-100mm-badge-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-100mm-badge-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316165100_69b7b6643093c8.40894893.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316165100_69b7b6643093c8.40894893.jpg"
         }
       ],
       "sales": [
@@ -2914,13 +2784,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/116938",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含小鞠知花的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-a3-poster-komari",
@@ -2943,13 +2818,13 @@
       "release_date": null,
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-a3-poster-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-a3-poster-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316164907_69b7b5f3257311.94046067.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316164907_69b7b5f3257311.94046067.jpg"
         }
       ],
       "sales": [
@@ -2964,13 +2839,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/115511",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含小鞠知花的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-big-keychain-komari",
@@ -2993,13 +2873,13 @@
       "release_date": null,
       "list_price_yen": 1100,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-big-keychain-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-big-keychain-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316164717_69b7b5852431b4.31988702.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316164717_69b7b5852431b4.31988702.jpg"
         }
       ],
       "sales": [
@@ -3014,13 +2894,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/116942",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含小鞠知花的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-big-stand-komari",
@@ -3043,13 +2928,13 @@
       "release_date": null,
       "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-big-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-big-stand-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316164402_69b7b4c21fdd46.47132107.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316164402_69b7b4c21fdd46.47132107.jpg"
         }
       ],
       "sales": [
@@ -3064,13 +2949,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/115503",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含小鞠知花的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-desk-mat-komari",
@@ -3093,13 +2983,13 @@
       "release_date": null,
       "list_price_yen": 3960,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-desk-mat-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-desk-mat-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316163903_69b7b39706f2b7.29379864.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316163903_69b7b39706f2b7.29379864.jpg"
         }
       ],
       "sales": [
@@ -3114,13 +3004,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/114408",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含小鞠知花的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-extra-large-stand-komari",
@@ -3143,13 +3038,13 @@
       "release_date": null,
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-extra-large-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-extra-large-stand-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316164027_69b7b3eb256280.09929982.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316164027_69b7b3eb256280.09929982.jpg"
         }
       ],
       "sales": [
@@ -3164,13 +3059,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/115507",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含小鞠知花的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-life-size-tapestry-komari",
@@ -3193,13 +3093,13 @@
       "release_date": null,
       "list_price_yen": 10780,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-life-size-tapestry-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-life-size-tapestry-komari.webp",
           "role": "product",
-          "source_url": "https://cdn.amnibus.com/upload/save_image/thumb_20260316163801_69b7b359e1a087.13583742.jpg"
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20260316163801_69b7b359e1a087.13583742.jpg"
         }
       ],
       "sales": [
@@ -3214,13 +3114,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://amnibus.com/products/detail/114413",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "官方公告的单品示例图仅展示八奈见，故采用含小鞠知花的联动总图"
+      "notes": "已核对 AMNIBUS 官方角色单品页与商品图。"
     },
     {
       "id": "amnibus-uniform-apron-2026-trading-badge-komari",
@@ -3293,13 +3198,13 @@
       "release_date": null,
       "list_price_yen": 275,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-trading-bromide-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-trading-bromide-komari.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/9173/16064-9173-8415502491b13e8503a585d6092ea708-720x800.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/9173/16064-9173-87409a964612b1fb3c106dca21625145-720x800.jpg"
         }
       ],
       "sales": [
@@ -3313,7 +3218,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -3343,13 +3248,13 @@
       "release_date": null,
       "list_price_yen": 275,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/amnibus-uniform-apron-2026-trading-illustration-card-komari.jpg",
           "thumbnail_path": "images/thumbs/amnibus-uniform-apron-2026-trading-illustration-card-komari.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/9173/16064-9173-87409a964612b1fb3c106dca21625145-720x800.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/9173/16064-9173-f95292f1d207c6e862392289a2a132eb-720x800.jpg"
         }
       ],
       "sales": [
@@ -3363,7 +3268,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -5570,12 +5475,12 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/bddvd-aniplex-komari-charm.jpg",
           "thumbnail_path": "images/thumbs/bddvd-aniplex-komari-charm.webp",
-          "role": "bonus",
+          "role": "product",
           "source_url": "https://makeine-anime.com/assets/img/bddvd/img_goods_aniplex_04.jpg"
         }
       ],
@@ -5588,9 +5493,9 @@
       ],
       "sources": [
         {
-          "url": "https://makeine-anime.com/bddvd/?id=03",
+          "url": "https://makeine-anime.com/bddvd/",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -5599,7 +5504,7 @@
         "店铺特典",
         "小鞠知花"
       ],
-      "notes": "Blu-ray/DVD 指定卷数连动或全卷购入特典，非单独销售。"
+      "notes": "已按动画官网 Blu-ray/DVD 店铺特典清单与官方商品图核对。"
     },
     {
       "id": "bddvd-gagaga-a5-art-panel",
@@ -5726,27 +5631,27 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/bddvd-gamers-komari-microfiber.jpg",
           "thumbnail_path": "images/thumbs/bddvd-gamers-komari-microfiber.webp",
-          "role": "bonus",
+          "role": "product",
           "source_url": "https://makeine-anime.com/assets/img/bddvd/img_goods_gamers_04.jpg"
         }
       ],
       "sales": [
         {
-          "seller": "ゲーマーズ",
+          "seller": "Gamers",
           "phase": "purchase_bonus",
           "url": "https://makeine-anime.com/bddvd/?id=03"
         }
       ],
       "sources": [
         {
-          "url": "https://makeine-anime.com/bddvd/?id=03",
+          "url": "https://makeine-anime.com/bddvd/",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -5755,7 +5660,7 @@
         "店铺特典",
         "小鞠知花"
       ],
-      "notes": "Blu-ray/DVD 指定卷数连动或全卷购入特典，非单独销售。"
+      "notes": "已按动画官网 Blu-ray/DVD 店铺特典清单与官方商品图核对。"
     },
     {
       "id": "bddvd-melonbooks-komari-tapestry",
@@ -5789,7 +5694,7 @@
       ],
       "sales": [
         {
-          "seller": "メロンブックス",
+          "seller": "Melonbooks",
           "phase": "purchase_bonus",
           "url": "https://makeine-anime.com/bddvd/?id=03"
         }
@@ -5807,7 +5712,7 @@
         "店铺特典",
         "小鞠知花"
       ],
-      "notes": "Blu-ray/DVD 指定卷数连动或全卷购入特典，非单独销售。"
+      "notes": "已按动画官网 Blu-ray/DVD 店铺特典清单与官方商品图核对。"
     },
     {
       "id": "bddvd-rakuten-acrylic-coaster",
@@ -6073,7 +5978,7 @@
       "global_product_id": "bushicap-petatto-windup-rubber-strap-komari",
       "character_id": "komari-chika",
       "name_ja": "ぺたっとねじまきらばーすとらっぷ 小鞠知花",
-      "name_zh": "Bushiroad ぺたっとねじまき随机胶挂 小鞠知花",
+      "name_zh": "Bushiroad 扭簧贴贴橡胶挂件 小鞠知花",
       "category_id": "accessory",
       "campaign_id": "bushiroad-petatto-windup-rubber-2025",
       "manufacturer_id": "bushiroad",
@@ -6688,18 +6593,18 @@
       "notes": "标价为每抽价格，不是奖品零售价。"
     },
     {
-      "id": "charat-autumn-2026-w-chance-canvas",
-      "global_product_id": "charat-autumn-2026-w-chance-canvas",
+      "id": "charat-autumn-2026-w-chance-canvas-a-komari",
+      "global_product_id": "charat-autumn-2026-w-chance-canvas-a-komari",
       "character_id": "komari-chika",
-      "name_ja": "Wチャンス賞 キャンバスボード 小鞠知花",
-      "name_zh": "各自度过的秋日 网络抽奖 W Chance奖 帆布画板 小鞠知花",
+      "name_ja": "Wチャンス賞 ビジュアルキャンバスボード 小鞠知花",
+      "name_zh": "各自度过的秋日 网络抽奖 W Chance奖 视觉帆布板 小鞠知花",
       "category_id": "fabric_goods",
       "campaign_id": "charat-kuji-autumn-2026",
       "manufacturer_id": "andblue",
-      "variant": "W Chance奖／同一款在两个抽选时段开放，各限量2份",
+      "variant": "W Chance奖／小鞠知花",
       "sale_format": {
-        "type": "random",
-        "total_variants": 8
+        "type": "lottery",
+        "total_variants": 4
       },
       "spec": {
         "size": "F4（W242×H333mm）",
@@ -6708,7 +6613,7 @@
       "release_date": "2026-01-29",
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/charat-autumn-2026-w-chance-canvas.png",
@@ -6728,7 +6633,7 @@
         {
           "url": "https://charat-kuji.jp/lot/5649717054668800-5191332576362496",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6737,7 +6642,7 @@
         "网络抽奖",
         "小鞠知花"
       ],
-      "notes": "标价为每抽价格，不是奖品零售价。W Chance奖为追加自动抽选奖品；同一款小鞠知花画板在2026年2月12日至18日及2月26日至27日两次开放，各限量2份。"
+      "notes": "官网在两个抽选时段重复列出同一制品；按单一制品记录，不区分 A/B。"
     },
     {
       "id": "cospa-acrylic-tsumamare-komari",
@@ -6896,8 +6801,8 @@
       "id": "cospa-cure-maid-stand-komari",
       "global_product_id": "cospa-cure-maid-stand-komari",
       "character_id": "komari-chika",
-      "name_ja": "小鞠知花 アクリルスタンド キュアメイドカフェVer.",
-      "name_zh": "CURE MAID CAFE 亚克力立牌 小鞠知花",
+      "name_ja": "★限定★小鞠知花 アクリルスタンド キュアメイドカフェVer.",
+      "name_zh": "Cure Maid Cafe 限定亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "cure-maid-cafe-2024",
       "manufacturer_id": "cospa",
@@ -6913,34 +6818,39 @@
       "release_date": null,
       "list_price_yen": 1650,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/cospa-cure-maid-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/cospa-cure-maid-stand-komari.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/99047/945/99047-945-95fd0bef7778f2fde43a093af2459fff-1000x1000.jpg"
+          "source_url": "https://www.cospa.com/images/items/pc/202409/0xijPm1t0rn1.jpg"
         }
       ],
       "sales": [
         {
-          "seller": "二次元コスパ",
+          "seller": "COSPA",
           "phase": "general_sale",
-          "url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html"
+          "url": "https://www.cospa.com/nijigencospa/detail/id/00000133382"
         }
       ],
       "sources": [
         {
+          "url": "https://www.cospa.com/nijigencospa/detail/id/00000133382",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        },
+        {
           "url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "小鞠知花"
       ],
-      "notes": "CURE MAID CAFE限定先行；2024年12月上旬一般发售"
+      "notes": "已按 COSPA 官方角色单品页核对图片。"
     },
     {
       "id": "cospa-cushion-cover-komari",
@@ -7721,13 +7631,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-keychain-komari.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-keychain-komari.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino021-028.jpg"
         }
       ],
       "sales": [
@@ -7741,7 +7651,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7750,7 +7660,7 @@
         "爱心Q版",
         "小鞠知花"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-mini-card-set-a",
@@ -7773,13 +7683,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-mini-card-set-a.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-mini-card-set-a.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino002.jpg"
         }
       ],
       "sales": [
@@ -7793,7 +7703,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7802,7 +7712,7 @@
         "爱心Q版",
         "小鞠知花"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-nameplate-komari",
@@ -7825,13 +7735,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-nameplate-komari.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-nameplate-komari.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino004-011.jpg"
         }
       ],
       "sales": [
@@ -7845,7 +7755,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7854,7 +7764,7 @@
         "爱心Q版",
         "小鞠知花"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-ring-pendant-komari",
@@ -7877,13 +7787,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 16500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-ring-pendant-komari.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-ring-pendant-komari.webp",
-          "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "role": "product",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkinr003_00.jpg"
         }
       ],
       "sales": [
@@ -7897,7 +7807,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7906,7 +7816,7 @@
         "爱心Q版",
         "小鞠知花"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-stand-keyholder-komari",
@@ -7929,13 +7839,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-stand-keyholder-komari.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-komari.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino013-020.jpg"
         }
       ],
       "sales": [
@@ -7949,7 +7859,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7958,7 +7868,7 @@
         "爱心Q版",
         "小鞠知花"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-stickers",
@@ -7981,13 +7891,13 @@
       "release_date": null,
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-stickers.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-stickers.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976622_1_1759982706.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/eternorecit-stickers.webp"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino012.jpg"
         }
       ],
       "sales": [
@@ -7999,15 +7909,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277883/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "套装"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-trading-badge",
@@ -8030,13 +7940,13 @@
       "release_date": null,
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-trading-badge.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/eternorecit-trading-badge.webp"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino001.jpg"
         }
       ],
       "sales": [
@@ -8048,15 +7958,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277872/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "随机"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "gagaga-J20210097",
@@ -8711,56 +8621,6 @@
       "notes": null
     },
     {
-      "id": "gagaga-J20250040-komari",
-      "global_product_id": "gagaga-j20250040-komari",
-      "character_id": "komari-chika",
-      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
-      "name_zh": "竹岛水族馆联动 随机徽章 小鞠知花款",
-      "category_id": "can_badge",
-      "campaign_id": "takeshima-aquarium",
-      "manufacturer_id": "gagaga-shop-online",
-      "variant": "小鞠知花款包含在随机阵容中",
-      "sale_format": {
-        "type": "random",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 500,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/gagaga-J20250040-komari.jpg",
-          "thumbnail_path": "images/thumbs/gagaga-J20250040-komari.webp",
-          "role": "product",
-          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250040-01.jpg"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "GAGAGA SHOP ONLINE",
-          "phase": "general_sale",
-          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/",
-          "type": "official",
-          "checked_at": "2026-10-01"
-        }
-      ],
-      "tags": [
-        "小说原作",
-        "小鞠知花"
-      ],
-      "notes": null
-    },
-    {
       "id": "gagaga-J20250042",
       "global_product_id": "gagaga-j20250042",
       "character_id": "komari-chika",
@@ -8966,8 +8826,8 @@
       "id": "gagaga-J20260006",
       "global_product_id": "gagaga-j20260006",
       "character_id": "komari-chika",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー ～パジャマパーティー～",
-      "name_zh": "小说第8.5卷彩页挂毯 睡衣派对",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー A",
+      "name_zh": "小说第 8.5 卷彩页挂毯 A",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -8983,7 +8843,7 @@
       "release_date": null,
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gagaga-J20260006.jpg",
@@ -9003,7 +8863,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20260006/",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9016,8 +8876,8 @@
       "id": "gagaga-J20260009",
       "global_product_id": "gagaga-j20260009",
       "character_id": "komari-chika",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル ～パジャマパーティー～",
-      "name_zh": "小说第8.5卷亚克力艺术板 睡衣派对",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル A",
+      "name_zh": "小说第 8.5 卷亚克力艺术板 A",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -9033,7 +8893,7 @@
       "release_date": null,
       "list_price_yen": 3850,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gagaga-J20260009.jpg",
@@ -9053,7 +8913,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20260009/",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9067,7 +8927,7 @@
       "global_product_id": "gagaga-j20260012",
       "character_id": "komari-chika",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルキーホルダーセット",
-      "name_zh": "小说第8.5卷亚克力挂件套装",
+      "name_zh": "小说第 8.5 卷亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -9083,7 +8943,7 @@
       "release_date": null,
       "list_price_yen": 1650,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gagaga-J20260012.jpg",
@@ -9103,7 +8963,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20260012/",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -11433,7 +11293,7 @@
       "id": "kujicolle-christmas-2025-a-komari-chika",
       "global_product_id": "kujicolle-christmas-2025-a-komari-chika",
       "character_id": "komari-chika",
-      "name_ja": "A-03賞 アクリルスタンド 小鞠 知花",
+      "name_ja": "A-03賞 アクリルスタンド 小鞠知花",
       "name_zh": "圣诞 Q 版网络抽奖 A-03奖 亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "kujicolle-christmas-2025",
@@ -11486,7 +11346,7 @@
       "id": "kujicolle-christmas-2025-b-komari-chika",
       "global_product_id": "kujicolle-christmas-2025-b-komari-chika",
       "character_id": "komari-chika",
-      "name_ja": "B-03賞 アクリルキーホルダー 小鞠 知花",
+      "name_ja": "B-03賞 アクリルキーホルダー 小鞠知花",
       "name_zh": "圣诞 Q 版网络抽奖 B-03奖 亚克力挂件 小鞠知花",
       "category_id": "acrylic_keychain",
       "campaign_id": "kujicolle-christmas-2025",
@@ -11539,7 +11399,7 @@
       "id": "kujicolle-christmas-2025-c-komari-chika",
       "global_product_id": "kujicolle-christmas-2025-c-komari-chika",
       "character_id": "komari-chika",
-      "name_ja": "C-03賞 缶バッジ 小鞠 知花",
+      "name_ja": "C-03賞 缶バッジ 小鞠知花",
       "name_zh": "圣诞 Q 版网络抽奖 C-03奖 徽章 小鞠知花",
       "category_id": "can_badge",
       "campaign_id": "kujicolle-christmas-2025",
@@ -11714,13 +11574,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/lifecard-point-stand-keyholder-komari.webp",
           "thumbnail_path": "images/thumbs/lifecard-point-stand-keyholder-komari.webp",
-          "role": "bonus",
-          "source_url": "https://www.lifecard.co.jp/lp/makeine/assets/img/cp_present.webp"
+          "role": "product",
+          "source_url": "https://www.lifecard.co.jp/lp/makeine/assets/img/change03.webp"
         }
       ],
       "sales": [
@@ -11734,7 +11594,7 @@
         {
           "url": "https://www.lifecard.co.jp/lp/makeine/",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -11743,7 +11603,7 @@
         "积分兑换",
         "小鞠知花"
       ],
-      "notes": "需使用380点Life Card积分兑换，非一般销售商品。"
+      "notes": "已按 Life Card 官方积分兑换区的角色单品图核对。"
     },
     {
       "id": "loft-cheerleader-book-cover",
@@ -11877,7 +11737,7 @@
         {
           "path": "images/items/loft-cheerleader-illustration-card-komari.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-illustration-card-komari.webp",
-          "role": "bonus",
+          "role": "lineup",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-47ed90894b3370bca5444c4ad0fc0779-3900x3900.jpg"
         }
       ],
@@ -11902,7 +11762,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": "满额特典，非单独销售。"
+      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
     },
     {
       "id": "loft-cheerleader-mini-stand",
@@ -11919,11 +11779,11 @@
         "total_variants": 8
       },
       "spec": {
-        "size": null,
-        "material": null
+        "size": "高约50mm",
+        "material": "亚克力"
       },
       "release_date": "2024-11-13",
-      "list_price_yen": null,
+      "list_price_yen": 660,
       "official_status": "official",
       "verification": "confirmed_text",
       "images": [
@@ -12036,7 +11896,7 @@
         {
           "path": "images/items/loft-cheerleader-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-stand-komari.webp",
-          "role": "product",
+          "role": "lineup",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-d18033691487c2f5f1fe341aecbe50cf-3014x1965.jpg"
         }
       ],
@@ -12061,7 +11921,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
     },
     {
       "id": "loft-cheerleader-trading-badge",
@@ -12078,11 +11938,11 @@
         "total_variants": 9
       },
       "spec": {
-        "size": null,
-        "material": null
+        "size": "直径56mm",
+        "material": "马口铁、合金、薄膜、纸"
       },
       "release_date": "2024-11-13",
-      "list_price_yen": null,
+      "list_price_yen": 550,
       "official_status": "official",
       "verification": "confirmed_text",
       "images": [
@@ -12142,7 +12002,7 @@
         {
           "path": "images/items/loft-cheerleader-tshirt-komari.jpg",
           "thumbnail_path": "images/thumbs/loft-cheerleader-tshirt-komari.webp",
-          "role": "product",
+          "role": "lineup",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/90064/32/90064-32-8b4c78c036251ebbaa98217077e9087f-3900x969.jpg"
         }
       ],
@@ -12167,7 +12027,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "已按 LOFT 官方新闻稿中的对应品类商品图核对。"
     },
     {
       "id": "neogate-yumekawa-badge",
@@ -12831,7 +12691,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000007980.000016064.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -12840,7 +12700,7 @@
         "满赠特典",
         "小鞠知花"
       ],
-      "notes": "每会计购买相关商品满3,000日元随机赠1张；非单独销售。"
+      "notes": "每会计购买相关商品满3,000日元随机赠1张；图片为官方全10款阵容图，非单独销售。"
     },
     {
       "id": "ramune-lab-plush-mascot-komari",
@@ -13262,7 +13122,7 @@
       "id": "summer-sweets-2024-a3-poster-komari",
       "global_product_id": "summer-sweets-2024-a3-poster-komari",
       "character_id": "komari-chika",
-      "name_ja": "A3マットポスター＜サマースイーツ 小鞠 知花＞",
+      "name_ja": "A3マットポスター＜サマースイーツ 小鞠知花＞",
       "name_zh": "夏日甜点 A3哑光海报 小鞠知花",
       "category_id": "poster",
       "campaign_id": "summer-sweets-2024",
@@ -13312,7 +13172,7 @@
       "id": "summer-sweets-2024-b2-tapestry-komari",
       "global_product_id": "summer-sweets-2024-b2-tapestry-komari",
       "character_id": "komari-chika",
-      "name_ja": "B2タペストリー＜サマースイーツ 小鞠 知花＞",
+      "name_ja": "B2タペストリー＜サマースイーツ 小鞠知花＞",
       "name_zh": "夏日甜点 B2挂毯 小鞠知花",
       "category_id": "tapestry",
       "campaign_id": "summer-sweets-2024",
@@ -13412,7 +13272,7 @@
       "id": "summer-sweets-2024-mini-keychain-komari",
       "global_product_id": "summer-sweets-2024-mini-keychain-komari",
       "character_id": "komari-chika",
-      "name_ja": "アクリルミニキーホルダー＜サマースイーツ 小鞠 知花＞",
+      "name_ja": "アクリルミニキーホルダー＜サマースイーツ 小鞠知花＞",
       "name_zh": "夏日甜点 迷你亚克力挂件 小鞠知花",
       "category_id": "acrylic_keychain",
       "campaign_id": "summer-sweets-2024",
@@ -13462,7 +13322,7 @@
       "id": "summer-sweets-2024-stand-komari",
       "global_product_id": "summer-sweets-2024-stand-komari",
       "character_id": "komari-chika",
-      "name_ja": "アクリルスタンド＜サマースイーツ 小鞠 知花＞",
+      "name_ja": "アクリルスタンド＜サマースイーツ 小鞠知花＞",
       "name_zh": "夏日甜点 亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "summer-sweets-2024",
@@ -13693,7 +13553,7 @@
           "path": "images/items/tapioca-cape-tapinui-komari.jpeg",
           "thumbnail_path": "images/thumbs/tapioca-cape-tapinui-komari.webp",
           "role": "product",
-          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_004.jpeg"
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_005.jpeg"
         }
       ],
       "sales": [
@@ -13715,7 +13575,7 @@
         "Tapioca",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 TSUTAYA 官方角色单品图核对。"
     },
     {
       "id": "tapioca-clear-card-collection-komari",
@@ -13743,7 +13603,7 @@
         {
           "path": "images/items/tapioca-clear-card-collection-komari.jpeg",
           "thumbnail_path": "images/thumbs/tapioca-clear-card-collection-komari.webp",
-          "role": "product",
+          "role": "lineup",
           "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_016.jpeg"
         }
       ],
@@ -13766,7 +13626,7 @@
         "Tapioca",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 TSUTAYA 官方分组图核对，对应全20款中的编号6～10。"
     },
     {
       "id": "tapioca-kurumi-badge-komari",
@@ -13789,7 +13649,7 @@
       "release_date": "2025-12-18",
       "list_price_yen": 495,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/tapioca-kurumi-badge-komari.jpeg",
@@ -13809,7 +13669,7 @@
         {
           "url": "https://shibuyatsutaya.tsite.jp/article/1606.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -13817,7 +13677,7 @@
         "Tapioca",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已核对 SHIBUYA TSUTAYA 官方活动页的角色单品图。"
     },
     {
       "id": "tapioca-kurumi-tapinui-komari",
@@ -13840,7 +13700,7 @@
       "release_date": "2025-12-18",
       "list_price_yen": 1100,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/tapioca-kurumi-tapinui-komari.jpeg",
@@ -13860,7 +13720,7 @@
         {
           "url": "https://shibuyatsutaya.tsite.jp/article/1606.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -13868,7 +13728,7 @@
         "Tapioca",
         "小鞠知花"
       ],
-      "notes": "官方阵容另含温水和彦、八奈见杏菜、烧盐柠檬、温水佳树、月之木古都、志喜屋梦子；不含马剃天爱星。"
+      "notes": "已核对 SHIBUYA TSUTAYA 官方活动页的角色单品图。"
     },
     {
       "id": "tapioca-postcard-bonus-group",
@@ -14733,13 +14593,13 @@
       "release_date": "2025-08-20",
       "list_price_yen": 5500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-fes-board-komari.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-board-komari.webp",
           "role": "product",
-          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638196.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031145_683e61ac60734.jpg&width=1200&height=630"
         }
       ],
       "sales": [
@@ -14752,8 +14612,8 @@
       "sources": [
         {
           "url": "https://www.gamers.co.jp/pn/pd/10805318/",
-          "type": "official",
-          "checked_at": "2026-10-02"
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14761,7 +14621,7 @@
         "TSUWABUKI FES",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-bromide-komari",
@@ -14775,7 +14635,7 @@
       "variant": "小鞠知花（活动特典）",
       "sale_format": {
         "type": "random",
-        "total_variants": 7
+        "total_variants": 9
       },
       "spec": {
         "size": null,
@@ -14784,27 +14644,27 @@
       "release_date": "2025-08-20",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-bromide-komari.jpg",
+          "path": "images/items/source-8217078d1c3848dd5774.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-bromide-komari.webp",
-          "role": "bonus",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "lineup",
+          "source_url": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/039/0_l.jpg"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "purchase_bonus",
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/"
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html"
         }
       ],
       "sources": [
         {
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/",
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html",
           "type": "secondary",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -14812,7 +14672,7 @@
         "TSUWABUKI FES",
         "小鞠知花"
       ],
-      "notes": "活动特典/抽选品，非单独销售；二级市场实物记录与官方7人商品阵容交叉确认。"
+      "notes": "活动满额特典，非单独销售；活动宣传图明确列出全9种照片卡。"
     },
     {
       "id": "thechara-fes-clock-literature",
@@ -14988,27 +14848,27 @@
       "release_date": "2025-08-20",
       "list_price_yen": 1320,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-fes-keychain-komari.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-keychain-komari.webp",
           "role": "product",
-          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638178.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031135_683e5f78e917a.jpg&width=1200&height=630"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638178"
+          "url": "https://www.gamers.co.jp/pn/pd/10805300/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638178",
-          "type": "official",
-          "checked_at": "2026-10-02"
+          "url": "https://www.gamers.co.jp/pn/pd/10805300/",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -15016,7 +14876,7 @@
         "TSUWABUKI FES",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-lottery-figure-komari",
@@ -15039,27 +14899,27 @@
       "release_date": "2025-08-20",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-lottery-figure-komari.jpg",
+          "path": "images/items/source-8217078d1c3848dd5774.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-lottery-figure-komari.webp",
-          "role": "bonus",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "lineup",
+          "source_url": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/039/0_l.jpg"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "lottery_prize",
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/"
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html"
         }
       ],
       "sources": [
         {
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/",
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html",
           "type": "secondary",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -15067,7 +14927,7 @@
         "TSUWABUKI FES",
         "小鞠知花"
       ],
-      "notes": "活动特典/抽选品，非单独销售；二级市场实物记录与官方7人商品阵容交叉确认。"
+      "notes": "活动抽奖品，非单独销售；活动宣传图明确列出全7种特大亚克力立牌。"
     },
     {
       "id": "thechara-fes-memorial-art-literature",
@@ -15141,27 +15001,27 @@
       "release_date": "2025-08-20",
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-fes-microfiber-komari.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-microfiber-komari.webp",
           "role": "product",
-          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638203.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031149_683e62a43fc95.jpg&width=1200&height=630"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638203"
+          "url": "https://www.gamers.co.jp/pn/pd/10805325/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638203",
-          "type": "official",
-          "checked_at": "2026-10-02"
+          "url": "https://www.gamers.co.jp/pn/pd/10805325/",
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -15169,7 +15029,7 @@
         "TSUWABUKI FES",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-mini-art-literature",
@@ -15243,7 +15103,7 @@
       "release_date": "2025-08-20",
       "list_price_yen": 7700,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-fes-tapestry-komari.jpg",
@@ -15262,8 +15122,8 @@
       "sources": [
         {
           "url": "https://www.gamers.co.jp/pn/pd/10805334/",
-          "type": "official",
-          "checked_at": "2026-10-02"
+          "type": "seller",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -15271,7 +15131,7 @@
         "TSUWABUKI FES",
         "小鞠知花"
       ],
-      "notes": null
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-tshirt-literature",
@@ -15438,11 +15298,11 @@
       "variant": "集合图包含小鞠知花",
       "sale_format": {
         "type": "single",
-        "total_variants": 1
+        "total_variants": null
       },
       "spec": {
-        "size": null,
-        "material": null
+        "size": "600×350mm",
+        "material": "ラバー"
       },
       "release_date": "2026-09",
       "list_price_yen": 4400,
@@ -16469,13 +16329,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-bromide-komari.jpg",
-          "role": "reference",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-bromide-komari.webp"
+          "thumbnail_path": "images/thumbs/thechara-valentine-bromide-komari.webp",
+          "role": "bonus",
+          "source_url": "https://anime-press.net/wp-content/uploads/2026/02/01051459_695b5359de676.jpg"
         }
       ],
       "sales": [
@@ -16489,7 +16349,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -16498,7 +16358,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": "每购买活动商品3,000日元随机赠送1枚；图片为同系列角色图参考。"
+      "notes": "采用活动满额特典七款照片卡完整总览图。"
     },
     {
       "id": "thechara-valentine-clock-literature",
@@ -16622,13 +16482,13 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-keychain-komari.jpg",
+          "thumbnail_path": "images/thumbs/thechara-valentine-keychain-komari.webp",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271415_697849e50c89a.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-keychain-komari.webp"
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809738.jpg"
         }
       ],
       "sales": [
@@ -16642,7 +16502,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -16651,7 +16511,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": "资料图待补"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-lottery-figure-komari",
@@ -16674,13 +16534,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-lottery-figure-komari.jpg",
-          "role": "reference",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-lottery-figure-komari.webp"
+          "thumbnail_path": "images/thumbs/thechara-valentine-lottery-figure-komari.webp",
+          "role": "lineup",
+          "source_url": "https://anime-press.net/wp-content/uploads/2026/02/01051456_695b528c745fe.jpg"
         }
       ],
       "sales": [
@@ -16694,7 +16554,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -16703,7 +16563,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": "店铺抽奖A赏；图片为同系列天爱星角色图参考。"
+      "notes": "采用活动抽奖 A 奖六角色完整奖品图。"
     },
     {
       "id": "thechara-valentine-memorial-art",
@@ -16775,13 +16635,13 @@
       "release_date": null,
       "list_price_yen": 825,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-microfiber-komari.jpg",
+          "thumbnail_path": "images/thumbs/thechara-valentine-microfiber-komari.webp",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271419_69784acc097af.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-microfiber-komari.webp"
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809755.jpg"
         }
       ],
       "sales": [
@@ -16795,7 +16655,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -16804,7 +16664,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": "资料图待补"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-mini-art",
@@ -16977,13 +16837,13 @@
       "release_date": null,
       "list_price_yen": 2200,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/thechara-valentine-stand-komari.webp",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-stand-komari.webp"
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809746.jpg"
         }
       ],
       "sales": [
@@ -16997,7 +16857,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -17006,7 +16866,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": "商品代码 0_4570179858598；资料图待补"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-tapestry-komari",
@@ -17029,13 +16889,13 @@
       "release_date": null,
       "list_price_yen": 8800,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-tapestry-komari.jpg",
+          "thumbnail_path": "images/thumbs/thechara-valentine-tapestry-komari.webp",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271427_69784cc0c73a0.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-tapestry-komari.webp"
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809765.jpg"
         }
       ],
       "sales": [
@@ -17049,7 +16909,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -17058,7 +16918,7 @@
         "小鞠知花",
         "新规绘制"
       ],
-      "notes": "资料图待补"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "tosyo-reading-badge-komari",
@@ -19643,7 +19503,7 @@
       "global_product_id": "vacation-trading-badge",
       "character_id": "komari-chika",
       "name_ja": "描き下ろしトレーディング缶バッジ バカンスver.",
-      "name_zh": "假期主题 随机徽章 小鞠知花相关款",
+      "name_zh": "假期主题 随机徽章 小鞠知花款",
       "category_id": "can_badge",
       "campaign_id": "hobbystock-vacation-2025",
       "manufacturer_id": "hobby-stock",
@@ -20443,7 +20303,7 @@
       "global_product_id": "sanrio-big-figure-komari",
       "character_id": "komari-chika",
       "name_ja": "箔押しBIGアクリルフィギュア 小鞠知花×マイメロディ",
-      "name_zh": "三丽鸥联动 烫印大型亚克力立牌 小鞠知花×美乐蒂",
+      "name_zh": "三丽鸥联动 烫金BIG亚克力立牌 小鞠知花×美乐蒂",
       "category_id": "acrylic_stand",
       "campaign_id": "sanrio-characters-2025",
       "manufacturer_id": "up-fields-premiumshop",
@@ -21875,7 +21735,7 @@
       "id": "movic-oshi-badge-collection-komari",
       "global_product_id": "movic-oshi-badge-collection-komari-4550621267505",
       "character_id": "komari-chika",
-      "name_ja": "推しキャラバッジコレクション／小鞠 知花",
+      "name_ja": "推しキャラバッジコレクション／小鞠知花",
       "name_zh": "推角徽章收藏 小鞠知花 8包装盒",
       "category_id": "can_badge",
       "campaign_id": "movic-oshi-badge-komari-2025",
@@ -22062,7 +21922,7 @@
       "id": "bakudanyaki-acrylic-mascot-komari",
       "global_product_id": "bakudanyaki-acrylic-mascot-komari-4573654643962",
       "character_id": "komari-chika",
-      "name_ja": "アクリルマスコット 小鞠 知花",
+      "name_ja": "アクリルマスコット 小鞠知花",
       "name_zh": "爆弹烧本铺联动 亚克力吉祥物 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "bakudanyaki-collaboration-2025",
@@ -22114,7 +21974,7 @@
       "id": "bakudanyaki-sticker-set-komari",
       "global_product_id": "bakudanyaki-sticker-set-komari-4573654644204",
       "character_id": "komari-chika",
-      "name_ja": "ダイカットステッカーセット 小鞠 知花",
+      "name_ja": "ダイカットステッカーセット 小鞠知花",
       "name_zh": "爆弹烧本铺联动 异形贴纸套装 小鞠知花",
       "category_id": "sticker",
       "campaign_id": "bakudanyaki-collaboration-2025",
@@ -22266,8 +22126,8 @@
       "id": "bakudanyaki-name-keycharm-komari",
       "global_product_id": "bakudanyaki-name-keycharm-komari",
       "character_id": "komari-chika",
-      "name_ja": "お名前キーチャーム 小鞠 知花",
-      "name_zh": "爆弹烧联动 姓名吊饰 小鞠知花",
+      "name_ja": "お名前キーチャーム 小鞠知花",
+      "name_zh": "爆弹烧本铺联动 姓名挂件 小鞠知花",
       "category_id": "accessory",
       "campaign_id": "bakudanyaki-collaboration-2025",
       "manufacturer_id": "wood-boy",
@@ -22316,8 +22176,8 @@
       "id": "bakudanyaki-name-badge-komari",
       "global_product_id": "bakudanyaki-name-badge-komari",
       "character_id": "komari-chika",
-      "name_ja": "ネームバッジ 小鞠 知花",
-      "name_zh": "爆弹烧联动 姓名徽章 小鞠知花",
+      "name_ja": "ネームバッジ 小鞠知花",
+      "name_zh": "爆弹烧本铺联动 姓名徽章 小鞠知花",
       "category_id": "can_badge",
       "campaign_id": "bakudanyaki-collaboration-2025",
       "manufacturer_id": "wood-boy",
@@ -22366,8 +22226,8 @@
       "id": "bakudanyaki-costume-charm-komari",
       "global_product_id": "bakudanyaki-costume-charm-komari",
       "character_id": "komari-chika",
-      "name_ja": "アクリル衣装チャーム 小鞠 知花",
-      "name_zh": "爆弹烧联动 亚克力服装吊饰 小鞠知花",
+      "name_ja": "アクリル衣装チャーム 小鞠知花",
+      "name_zh": "爆弹烧本铺联动 亚克力服装挂件 小鞠知花",
       "category_id": "accessory",
       "campaign_id": "bakudanyaki-collaboration-2025",
       "manufacturer_id": "wood-boy",
@@ -22416,8 +22276,8 @@
       "id": "bakudanyaki-aurora-keychain-komari",
       "global_product_id": "bakudanyaki-aurora-keychain-komari",
       "character_id": "komari-chika",
-      "name_ja": "オーロラキーホルダー 小鞠 知花",
-      "name_zh": "爆弹烧联动 极光亚克力挂件 小鞠知花",
+      "name_ja": "オーロラキーホルダー 小鞠知花",
+      "name_zh": "爆弹烧本铺联动 极光亚克力挂件 小鞠知花",
       "category_id": "acrylic_keychain",
       "campaign_id": "bakudanyaki-collaboration-2025",
       "manufacturer_id": "wood-boy",
@@ -22620,7 +22480,7 @@
       "global_product_id": "autumn-2025-gamers-a3-poster-komari",
       "character_id": "komari-chika",
       "name_ja": "A3マットポスター＜知花が過ごす秋＞",
-      "name_zh": "Gamers 限定 A3 哑光海报〈知花度过的秋日〉",
+      "name_zh": "各自度过的秋日 Gamers限定 A3哑光海报 小鞠知花",
       "category_id": "poster",
       "campaign_id": "autumn-seasons-2025",
       "manufacturer_id": "andblue-anisugar",
@@ -23020,8 +22880,8 @@
       "id": "bellhouse-gyugyutto-stand-uniform-komari",
       "global_product_id": "bellhouse-gyugyutto-stand-uniform-komari",
       "character_id": "komari-chika",
-      "name_ja": "ぎゅぎゅっとミニスタンド 小鞠 知花（制服）",
-      "name_zh": "ぎゅぎゅっと 迷你立牌 小鞠知花（制服）",
+      "name_ja": "ぎゅぎゅっとミニスタンド 小鞠知花（制服）",
+      "name_zh": "Bell House ぎゅぎゅっと 迷你立牌 小鞠知花（制服）",
       "category_id": "acrylic_stand",
       "campaign_id": "bellhouse-gyugyutto-2025",
       "manufacturer_id": "bell-house",
@@ -23070,8 +22930,8 @@
       "id": "bellhouse-gyugyutto-stand-swimsuit-komari",
       "global_product_id": "bellhouse-gyugyutto-stand-swimsuit-komari",
       "character_id": "komari-chika",
-      "name_ja": "ぎゅぎゅっとミニスタンド 小鞠 知花（水着）",
-      "name_zh": "ぎゅぎゅっと 迷你立牌 小鞠知花（泳装）",
+      "name_ja": "ぎゅぎゅっとミニスタンド 小鞠知花（水着）",
+      "name_zh": "Bell House ぎゅぎゅっと 迷你立牌 小鞠知花（泳装）",
       "category_id": "acrylic_stand",
       "campaign_id": "bellhouse-gyugyutto-2025",
       "manufacturer_id": "bell-house",
@@ -23120,8 +22980,8 @@
       "id": "bellhouse-gyugyutto-keychain-uniform-komari",
       "global_product_id": "bellhouse-gyugyutto-keychain-uniform-komari",
       "character_id": "komari-chika",
-      "name_ja": "ぎゅぎゅっとアクリルキーホルダー 小鞠 知花（制服）",
-      "name_zh": "ぎゅぎゅっと 亚克力挂件 小鞠知花（制服）",
+      "name_ja": "ぎゅぎゅっとアクリルキーホルダー 小鞠知花（制服）",
+      "name_zh": "Bell House ぎゅぎゅっと 亚克力挂件 小鞠知花（制服）",
       "category_id": "acrylic_keychain",
       "campaign_id": "bellhouse-gyugyutto-2025",
       "manufacturer_id": "bell-house",
@@ -23170,8 +23030,8 @@
       "id": "bellhouse-gyugyutto-keychain-swimsuit-komari",
       "global_product_id": "bellhouse-gyugyutto-keychain-swimsuit-komari",
       "character_id": "komari-chika",
-      "name_ja": "ぎゅぎゅっとアクリルキーホルダー 小鞠 知花（水着）",
-      "name_zh": "ぎゅぎゅっと 亚克力挂件 小鞠知花（泳装）",
+      "name_ja": "ぎゅぎゅっとアクリルキーホルダー 小鞠知花（水着）",
+      "name_zh": "Bell House ぎゅぎゅっと 亚克力挂件 小鞠知花（泳装）",
       "category_id": "acrylic_keychain",
       "campaign_id": "bellhouse-gyugyutto-2025",
       "manufacturer_id": "bell-house",
@@ -23470,8 +23330,8 @@
       "id": "bellhouse-memories-stand-b-komari",
       "global_product_id": "bellhouse-memories-stand-b-komari",
       "character_id": "komari-chika",
-      "name_ja": "メモリーズミニスタンド 小鞠 知花B",
-      "name_zh": "Memories 迷你立牌 小鞠知花 B",
+      "name_ja": "メモリーズミニスタンド 小鞠知花B",
+      "name_zh": "Bell House Memories 迷你立牌 小鞠知花 B",
       "category_id": "acrylic_stand",
       "campaign_id": "bellhouse-memories-2025",
       "manufacturer_id": "bell-house",
@@ -23520,8 +23380,8 @@
       "id": "bellhouse-memories-stand-a-komari",
       "global_product_id": "bellhouse-memories-stand-a-komari",
       "character_id": "komari-chika",
-      "name_ja": "メモリーズミニスタンド 小鞠 知花A",
-      "name_zh": "Memories 迷你立牌 小鞠知花 A",
+      "name_ja": "メモリーズミニスタンド 小鞠知花A",
+      "name_zh": "Bell House Memories 迷你立牌 小鞠知花 A",
       "category_id": "acrylic_stand",
       "campaign_id": "bellhouse-memories-2025",
       "manufacturer_id": "bell-house",
@@ -23570,8 +23430,8 @@
       "id": "bellhouse-memories-badge-b-komari",
       "global_product_id": "bellhouse-memories-badge-b-komari",
       "character_id": "komari-chika",
-      "name_ja": "メモリーズ缶バッジ 小鞠 知花B",
-      "name_zh": "Memories 徽章 小鞠知花 B",
+      "name_ja": "メモリーズ缶バッジ 小鞠知花B",
+      "name_zh": "Bell House Memories 徽章 小鞠知花 B",
       "category_id": "can_badge",
       "campaign_id": "bellhouse-memories-2025",
       "manufacturer_id": "bell-house",
@@ -23620,8 +23480,8 @@
       "id": "bellhouse-memories-badge-a-komari",
       "global_product_id": "bellhouse-memories-badge-a-komari",
       "character_id": "komari-chika",
-      "name_ja": "メモリーズ缶バッジ 小鞠 知花A",
-      "name_zh": "Memories 徽章 小鞠知花 A",
+      "name_ja": "メモリーズ缶バッジ 小鞠知花A",
+      "name_zh": "Bell House Memories 徽章 小鞠知花 A",
       "category_id": "can_badge",
       "campaign_id": "bellhouse-memories-2025",
       "manufacturer_id": "bell-house",
@@ -23770,8 +23630,8 @@
       "id": "andblue-sweet-summer-charatag-komari",
       "global_product_id": "andblue-sweet-summer-charatag-komari",
       "character_id": "komari-chika",
-      "name_ja": "[きゃらタグ] 2024 Sweet Summer<小鞠 知花>",
-      "name_zh": "2024 Sweet Summer 角色吊牌 小鞠知花",
+      "name_ja": "[きゃらタグ] 2024 Sweet Summer<小鞠知花>",
+      "name_zh": "andBlue 2024 Sweet Summer 角色吊牌 小鞠知花",
       "category_id": "accessory",
       "campaign_id": "andblue-sweet-summer-2024",
       "manufacturer_id": "andblue",
@@ -24020,8 +23880,8 @@
       "id": "movic-standard-sticker-komari",
       "global_product_id": "movic-standard-sticker-komari",
       "character_id": "komari-chika",
-      "name_ja": "ステッカー/小鞠 知花",
-      "name_zh": "贴纸 小鞠知花",
+      "name_ja": "ステッカー/小鞠知花",
+      "name_zh": "MOVIC 贴纸 小鞠知花",
       "category_id": "sticker",
       "campaign_id": "movic-standard-2024",
       "manufacturer_id": "movic",
@@ -24070,8 +23930,8 @@
       "id": "movic-standard-korotto-komari",
       "global_product_id": "movic-standard-korotto-komari",
       "character_id": "komari-chika",
-      "name_ja": "ころっと/小鞠 知花",
-      "name_zh": "ころっと 亚克力立牌 小鞠知花",
+      "name_ja": "ころっと/小鞠知花",
+      "name_zh": "MOVIC ころっと 亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "movic-standard-2024",
       "manufacturer_id": "movic",
@@ -24120,8 +23980,8 @@
       "id": "movic-standard-eye-mask-komari",
       "global_product_id": "movic-standard-eye-mask-komari",
       "character_id": "komari-chika",
-      "name_ja": "負け顔アイマスク/小鞠 知花",
-      "name_zh": "败犬表情眼罩 小鞠知花",
+      "name_ja": "負け顔アイマスク/小鞠知花",
+      "name_zh": "MOVIC 败犬表情眼罩 小鞠知花",
       "category_id": "accessory",
       "campaign_id": "movic-standard-2024",
       "manufacturer_id": "movic",
@@ -24170,8 +24030,8 @@
       "id": "movic-standard-badge-komari",
       "global_product_id": "movic-standard-badge-komari",
       "character_id": "komari-chika",
-      "name_ja": "缶バッジ/小鞠 知花",
-      "name_zh": "徽章 小鞠知花",
+      "name_ja": "缶バッジ/小鞠知花",
+      "name_zh": "MOVIC 徽章 小鞠知花",
       "category_id": "can_badge",
       "campaign_id": "movic-standard-2024",
       "manufacturer_id": "movic",
@@ -25574,7 +25434,7 @@
       "id": "movic-standard-acrylic-stand-chika",
       "global_product_id": "movic-standard-acrylic-stand-chika",
       "character_id": "komari-chika",
-      "name_ja": "アクリルスタンド/小鞠 知花",
+      "name_ja": "アクリルスタンド/小鞠知花",
       "name_zh": "MOVIC 亚克力立牌 小鞠知花",
       "category_id": "acrylic_stand",
       "campaign_id": "movic-standard-2024",
@@ -25626,7 +25486,7 @@
       "id": "movic-standard-acrylic-keychain-chika",
       "global_product_id": "movic-standard-acrylic-keychain-chika",
       "character_id": "komari-chika",
-      "name_ja": "アクリルキーホルダー/小鞠 知花",
+      "name_ja": "アクリルキーホルダー/小鞠知花",
       "name_zh": "MOVIC 亚克力挂件 小鞠知花",
       "category_id": "acrylic_keychain",
       "campaign_id": "movic-standard-2024",
@@ -26291,6 +26151,109 @@
         "小鞠知花"
       ],
       "notes": "官方标注为事后通販限定商品。"
+    },
+    {
+      "id": "gagaga-J20250040",
+      "global_product_id": "gagaga-j20250040",
+      "character_id": "komari-chika",
+      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
+      "name_zh": "竹岛水族馆联动 随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "campaign_id": "takeshima-aquarium",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "小鞠知花款包含在随机阵容中",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-02-18",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/source-eba8be37ecdbcfa26039.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-J20250040.webp",
+          "role": "lineup",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250040-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "GAGAGA SHOP",
+        "小鞠知花"
+      ],
+      "notes": "官方商品页确认盲抽规格；商品图为全9种阵容。"
+    },
+    {
+      "id": "amnibus-jr2-deskmat-a",
+      "global_product_id": "amnibus-jr2-deskmat-a",
+      "character_id": "komari-chika",
+      "name_ja": "描き下ろし 集合A 駅員ver. 第2弾 マルチデスクマット",
+      "name_zh": "JR 东海第二弹新绘多用途桌垫 A",
+      "category_id": "stationery",
+      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
+      "manufacturer_id": "arma-bianca",
+      "variant": "集合A图案包含小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约60×35cm",
+        "material": "ポリエステル・ラバー"
+      },
+      "release_date": null,
+      "list_price_yen": 3960,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-deskmat-a.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-jr2-deskmat-a.webp",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930145403_68db707be1e015.92481735.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/93948"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://amnibus.com/products/detail/93948",
+          "type": "official_retail",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "JR东海",
+        "站员装",
+        "小鞠知花"
+      ],
+      "notes": "官方商品图确认集合A图案包含温水和彦、八奈见杏菜、烧盐柠檬、小鞠知花、温水佳树。"
     }
   ]
 }
