@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-08",
   "manufacturers": [
     {
       "id": "andblue",
@@ -238,12 +238,6 @@
       "aliases": []
     },
     {
-      "id": "suzuki-haruka",
-      "name_zh": "鈴木ハルカ",
-      "name_ja": "鈴木ハルカ",
-      "aliases": []
-    },
-    {
       "id": "system-service",
       "name_zh": "System Service",
       "name_ja": "システムサービス",
@@ -310,14 +304,6 @@
       "official_url": "https://premiumshop.tokyo/"
     },
     {
-      "id": "across",
-      "name_zh": "ACROSS",
-      "name_ja": "アクロス",
-      "aliases": [
-        "アクロス コンテンツ事業部"
-      ]
-    },
-    {
       "id": "movic",
       "name_zh": "Movic",
       "name_ja": "ムービック",
@@ -359,7 +345,7 @@
     },
     {
       "id": "hobby-japan",
-      "name_zh": "HobbyJAPAN",
+      "name_zh": "Hobby JAPAN",
       "name_ja": "ホビージャパン",
       "aliases": [
         "HJ"
@@ -384,6 +370,16 @@
       "name_zh": "TOSYO",
       "name_ja": "TOSYO",
       "aliases": []
+    },
+    {
+      "id": "akros",
+      "name_zh": "AKROS",
+      "name_ja": "アクロス",
+      "aliases": [
+        "有限会社アクロス",
+        "アクロス コンテンツ事業部",
+        "ACROSS"
+      ]
     }
   ]
 }
