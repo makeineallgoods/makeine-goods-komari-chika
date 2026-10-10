@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-10",
   "campaigns": [
     {
       "id": "amnibus-chibitoko-2024",
@@ -69,14 +69,27 @@
       "official_url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html"
     },
     {
-      "id": "azumaker-standard-2025",
-      "name_zh": "Azumaker 2025年12月新商品",
-      "name_ja": "アズメーカー 2025年12月新商品",
+      "id": "autumn-seasons-2026-charat-kuji",
+      "name_zh": "各自度过的秋日 网络抽奖",
+      "name_ja": "きゃらっとくじ[web] ～それぞれが過ごす秋～",
       "aliases": [
-        "きゃらON！新商品"
+        "それぞれが過ごす秋 Webくじ"
       ],
-      "year": 2025,
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000623.000080345.html"
+      "year": 2026,
+      "official_url": "https://charat-kuji.jp/lot/5649717054668800-5191332576362496"
+    },
+    {
+      "id": "azumaker-character-goods",
+      "name_zh": "Azumaker 角色制品",
+      "name_ja": "アズメーカー キャラクターグッズ",
+      "aliases": [
+        "ぷにこれ！",
+        "きゃらON！新商品",
+        "Azumaker 角色制品 2025",
+        "Azumaker 2025年12月新商品"
+      ],
+      "year": 2024,
+      "official_url": "https://www.charaon.jp/SHOP/130426/244600/list.html"
     },
     {
       "id": "beach-date-2026",
@@ -96,7 +109,7 @@
         "ベルハウス パジャマver."
       ],
       "year": 2024,
-      "official_url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+      "official_url": "https://www.donki.com/products/makeine/"
     },
     {
       "id": "blueblue-watch-2025",
@@ -125,6 +138,17 @@
       ],
       "year": 2024,
       "official_url": "https://prtimes.jp/main/html/rd/p/000005422.000016756.html"
+    },
+    {
+      "id": "broadcast-commemorative-swimsuit-2024",
+      "name_zh": "TV纪念泳装",
+      "name_ja": "TVアニメ放送記念ストア 水着 ver.",
+      "aliases": [
+        "TV动画放送纪念商店 泳装 ver.",
+        "放送記念ストア 水着 ver."
+      ],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000005640.000016756.html"
     },
     {
       "id": "bushiroad-petatto-windup-rubber-2025",
@@ -156,16 +180,6 @@
       "official_url": "https://prtimes.jp/main/html/rd/p/000000019.000026614.html"
     },
     {
-      "id": "charat-kuji-autumn-2026",
-      "name_zh": "各自度过的秋日 网络抽奖",
-      "name_ja": "きゃらっとくじ[web] ～それぞれが過ごす秋～",
-      "aliases": [
-        "それぞれが過ごす秋 Webくじ"
-      ],
-      "year": 2026,
-      "official_url": "https://charat-kuji.jp/lot/5649717054668800-5191332576362496"
-    },
-    {
       "id": "cospa-character-goods",
       "name_zh": "COSPA 角色制品",
       "name_ja": "二次元コスパ キャラクターグッズ",
@@ -185,9 +199,12 @@
       "id": "cure-maid-cafe-2024",
       "name_zh": "CURE MAID CAFE 联动",
       "name_ja": "キュアメイドカフェVer.",
-      "aliases": [],
+      "aliases": [
+        "TV动画《败犬女主太多了！》Cure Maid Cafe 联动",
+        "TVアニメ「負けヒロインが多すぎる！」カフェ in キュアメイドカフェ"
+      ],
       "year": 2024,
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html"
+      "official_url": "https://www.curemaid.jp/collab_cafe/makeine2024/"
     },
     {
       "id": "curtain-damashii-angel-devil-2025",
@@ -325,9 +342,11 @@
     },
     {
       "id": "kemomimi-parka",
-      "name_zh": "けもみみパーカー",
+      "name_zh": "兽耳连帽造型",
       "name_ja": "けもみみパーカー",
-      "aliases": [],
+      "aliases": [
+        "兽耳连帽衫"
+      ],
       "year": 2026,
       "official_url": "https://www.animate-onlineshop.jp/pn/pd/3496857/"
     },
@@ -352,6 +371,28 @@
       "official_url": "https://online.aniplex.co.jp/KddfgCVO"
     },
     {
+      "id": "kyomaf-2025-retro-cafe",
+      "name_zh": "京まふ 2025 复古咖啡厅",
+      "name_ja": "京まふ2025 レトロカフェ ver.",
+      "aliases": [
+        "京都国际漫画动画展 2025",
+        "レトロカフェ"
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
+    },
+    {
+      "id": "kyomaf-2026-miko-dance",
+      "name_zh": "京まふ 2026 巫女舞",
+      "name_ja": "京まふ2026 巫女舞 ver.",
+      "aliases": [
+        "巫女舞 ver.",
+        "アフター京まふ"
+      ],
+      "year": 2026,
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+    },
+    {
       "id": "lifecard-benefits",
       "name_zh": "Life Card 联名卡特典",
       "name_ja": "ライフカード 入会・ポイント交換特典",
@@ -366,7 +407,9 @@
       "name_zh": "Loft 啦啦队快闪店",
       "name_ja": "POP UP STORE in ロフト チアガール",
       "aliases": [
-        "マケインロフト"
+        "マケインロフト",
+        "Philter POP UP STORE",
+        "フィルター・インク POP UP STORE 描きおろしグッズ"
       ],
       "year": 2024,
       "official_url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html"
@@ -427,7 +470,7 @@
       "name_ja": "小説第8.5巻",
       "aliases": [],
       "year": 2026,
-      "official_url": null
+      "official_url": "https://shogakukan-comic.jp/book?isbn=9784094532760"
     },
     {
       "id": "osanpo-kisetsu",
@@ -511,7 +554,10 @@
       "name_zh": "夏日甜点",
       "name_ja": "サマースイーツ",
       "aliases": [
-        "Sweet Summer 2024"
+        "Sweet Summer 2024",
+        "2024 Sweet Summer",
+        "きゃらタグ 2024 Sweet Summer",
+        "andBlue 2024 Sweet Summer"
       ],
       "year": 2024,
       "official_url": "https://prtimes.jp/main/html/rd/p/000005572.000016756.html"
@@ -549,9 +595,11 @@
       "id": "takeshima-aquarium",
       "name_zh": "竹岛水族馆",
       "name_ja": "竹島水族館",
-      "aliases": [],
+      "aliases": [
+        "マケイン×たけすいコラボ"
+      ],
       "year": 2025,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20250040/"
+      "official_url": "https://x.com/takesuiaquarium/status/1995719886572564762"
     },
     {
       "id": "tapioca-plush-2025",
@@ -644,7 +692,7 @@
     },
     {
       "id": "yumekawa-fair-animate",
-      "name_zh": "ゆめかわフェア in アニメイト",
+      "name_zh": "梦川 FAIR in animate",
       "name_ja": "ゆめかわフェア in アニメイト",
       "aliases": [],
       "year": 2026,
@@ -681,26 +729,6 @@
       "official_url": "https://x.com/bkdanikebukuro"
     },
     {
-      "id": "andblue-sweet-summer-2024",
-      "name_zh": "andBlue 2024 Sweet Summer",
-      "name_ja": "きゃらタグ 2024 Sweet Summer",
-      "aliases": [
-        "きゃらタグ"
-      ],
-      "year": 2024,
-      "official_url": "https://www.animate-onlineshop.jp/pd/2955601/"
-    },
-    {
-      "id": "azumaker-character-goods-2025",
-      "name_zh": "Azumaker 角色制品 2025",
-      "name_ja": "アズメーカー キャラクターグッズ 2025",
-      "aliases": [
-        "ぷにこれ！"
-      ],
-      "year": 2025,
-      "official_url": "https://www.animate-onlineshop.jp/pd/3013485/"
-    },
-    {
       "id": "bellhouse-gyugyutto-2025",
       "name_zh": "Bell House ぎゅぎゅっと系列",
       "name_ja": "ベルハウス ぎゅぎゅっとシリーズ",
@@ -723,17 +751,6 @@
       "aliases": [],
       "year": 2024,
       "official_url": "https://www.animate-onlineshop.jp/pd/2963963/"
-    },
-    {
-      "id": "kyomaf-retro-cafe-2025",
-      "name_zh": "京まふ 2025 复古咖啡厅",
-      "name_ja": "京まふ2025 レトロカフェ ver.",
-      "aliases": [
-        "京都国际漫画动画展 2025",
-        "レトロカフェ"
-      ],
-      "year": 2025,
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
     },
     {
       "id": "movic-standard-2024",
@@ -802,16 +819,6 @@
       "official_url": "https://www.p-animestore.com/?cbid=2936528&csid=0&mode=cate&page=2"
     },
     {
-      "id": "philter-pop-up-store-2025",
-      "name_zh": "Philter POP UP STORE 新绘制品",
-      "name_ja": "フィルター・インク POP UP STORE 描きおろしグッズ",
-      "aliases": [
-        "Philter POP UP STORE"
-      ],
-      "year": 2025,
-      "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04593142"
-    },
-    {
       "id": "snapmide",
       "name_zh": "スナップマイド",
       "name_ja": "スナップマイド",
@@ -848,17 +855,6 @@
       "official_url": "https://www.value-press.com/pressrelease/352447"
     },
     {
-      "id": "kyomaf-2026-miko-dance",
-      "name_zh": "京まふ 2026 巫女舞",
-      "name_ja": "京まふ2026 巫女舞 ver.",
-      "aliases": [
-        "巫女舞 ver.",
-        "アフター京まふ"
-      ],
-      "year": 2026,
-      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
-    },
-    {
       "id": "cs-front",
       "name_zh": "CS.FRONT",
       "name_ja": "CS.FRONT",
@@ -867,6 +863,18 @@
       ],
       "year": 2026,
       "official_url": "https://www.crysto.jp/view/company"
+    },
+    {
+      "id": "tsutaya-jirai-2024",
+      "name_zh": "TSUTAYA 巡回 POP UP SHOP 地雷服",
+      "name_ja": "TVアニメ『負けヒロインが多すぎる！』TSUTAYA巡回POP UP SHOP",
+      "aliases": [
+        "地雷服",
+        "小恶魔风",
+        "TSUTAYA 巡回 POP UP SHOP"
+      ],
+      "year": 2024,
+      "official_url": "https://shibuyatsutaya.tsite.jp/article/588.html"
     }
   ]
 }
