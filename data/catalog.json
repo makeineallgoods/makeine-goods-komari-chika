@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "registry_version": "2026-10-10",
+  "registry_version": "2026-10-15",
   "catalog": {
     "title": "小鞠知花制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含小鞠知花的官方实体制品",
-    "updated_at": "2026-10-10",
+    "updated_at": "2026-10-15",
     "status": "published"
   },
   "character": {
@@ -3712,7 +3712,7 @@
         "书签",
         "小鞠知花"
       ],
-      "notes": "购买《败犬女主太多了！@comic》对象漫画每册赠1张，赠完即止；商品图为全6款集合图。"
+      "notes": "购买《败犬女主太多了！@comic》对象漫画每册赠1张，赠完即止；当前使用小鞠知花单品图。"
     },
     {
       "id": "animega-chibi-2025-big-stand-komari",
@@ -28347,6 +28347,323 @@
         "小鞠知花"
       ],
       "notes": null
+    },
+    {
+      "character_id": "komari-chika",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        },
+        {
+          "url": "https://anican.shop/items/66713661ec918a031d6847e7",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "小鞠知花"
+      ],
+      "id": "jr-central-2024-framed-stand-komari",
+      "global_product_id": "jr-central-2024-framed-stand-komari",
+      "name_ja": "JR東海 推し旅 2024 枠付きアクリルスタンド 小鞠知花",
+      "name_zh": "JR东海 推し旅 2024 边框亚克力立牌 小鞠知花",
+      "category_id": "acrylic_stand",
+      "variant": "小鞠知花；全6款之一",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "list_price_yen": 1980,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-framed-stand-komari.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-framed-stand-komari.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65efbbe1bd9ebe002a0e3175/7757afa94a795a7d2bf0.jpg/original"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "アニキャン官方商品页提供小鞠知花款单品图。"
+    },
+    {
+      "character_id": "komari-chika",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "小鞠知花"
+      ],
+      "id": "jr-central-2024-trading-badge",
+      "global_product_id": "jr-central-2024-trading-badge",
+      "name_ja": "JR東海 推し旅 2024 ブラインド缶バッジ",
+      "name_zh": "JR东海 推し旅 2024 随机徽章 小鞠知花款",
+      "category_id": "can_badge",
+      "variant": "随机6款包含小鞠知花",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "纸、马口铁"
+      },
+      "list_price_yen": 550,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-trading-badge.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image02.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "盲抽商品；JR东海官方阵容图可确认小鞠知花图案。"
+    },
+    {
+      "character_id": "komari-chika",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "小鞠知花"
+      ],
+      "id": "jr-central-2024-trading-acrylic-card",
+      "global_product_id": "jr-central-2024-trading-acrylic-card",
+      "name_ja": "JR東海 推し旅 2024 トレーディングアクリルカード",
+      "name_zh": "JR东海 推し旅 2024 随机亚克力卡 小鞠知花款",
+      "category_id": "card",
+      "variant": "随机6款包含小鞠知花",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "list_price_yen": 770,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-trading-acrylic-card.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-trading-acrylic-card.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image03.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "盲抽商品；JR东海官方阵容图可确认小鞠知花图案。"
+    },
+    {
+      "character_id": "komari-chika",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "小鞠知花"
+      ],
+      "id": "jr-central-2024-clear-file",
+      "global_product_id": "jr-central-2024-clear-file",
+      "name_ja": "JR東海 推し旅 2024 A4クリアファイル",
+      "name_zh": "JR东海 推し旅 2024 A4透明文件夹",
+      "category_id": "clear_file",
+      "variant": "6人群像图案包含小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "A4",
+        "material": "PP"
+      },
+      "list_price_yen": 550,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-clear-file.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-clear-file.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image04.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "正面为6人群像，背面为角色领结图案。"
+    },
+    {
+      "character_id": "komari-chika",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "小鞠知花"
+      ],
+      "id": "jr-central-2024-postcard-set",
+      "global_product_id": "jr-central-2024-postcard-set",
+      "name_ja": "JR東海 推し旅 2024 ポストカードセット",
+      "name_zh": "JR东海 推し旅 2024 明信片6枚套装",
+      "category_id": "card",
+      "variant": "6枚套装包含小鞠知花",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "明信片尺寸",
+        "material": "纸"
+      },
+      "list_price_yen": 880,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-postcard-set.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-postcard-set.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "固定6枚套装，其中1枚为小鞠知花。"
+    },
+    {
+      "character_id": "komari-chika",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "小鞠知花"
+      ],
+      "id": "jr-central-2024-bookmark-komari",
+      "global_product_id": "jr-central-2024-bookmark-komari",
+      "name_ja": "JR東海 推し旅 2024 オリジナル栞 小鞠知花",
+      "name_zh": "JR东海 推し旅 2024 店铺特典书签 小鞠知花",
+      "category_id": "stationery",
+      "variant": "小鞠知花；全6款之一",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "纸"
+      },
+      "list_price_yen": null,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-bookmark-komari.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-bookmark-komari.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/bookmark-02.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "purchase_bonus",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "在小鞠知花对应地点完成指定消费条件并说出活动口令后领取。"
     }
   ]
 }
