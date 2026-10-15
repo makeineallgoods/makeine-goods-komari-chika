@@ -2162,18 +2162,18 @@
       "notes": null
     },
     {
-      "id": "amnibus-nonhoi-chibi-mug",
-      "global_product_id": "amnibus-nonhoi-chibi-mug",
+      "id": "amnibus-nonhoi-chibi-plant-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-plant-mug",
       "character_id": "komari-chika",
-      "name_ja": "ちびキャラ アトラクションver. マグカップ",
-      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "name_ja": "ちびキャラ 植物ver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版植物马克杯",
       "category_id": "tableware",
       "campaign_id": "nonhoi-park",
       "manufacturer_id": "arma-bianca",
-      "variant": "群像图案包含小鞠知花",
+      "variant": "植物版图案包含小鞠知花",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 2
       },
       "spec": {
         "size": "直径约82×H95mm",
@@ -2185,10 +2185,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/amnibus-nonhoi-chibi-mug.jpg",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-mug.webp"
+          "path": "images/items/amnibus-nonhoi-chibi-plant-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-plant-mug.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-94d9c0fa69c5028455aeeebee54311db-1350x1500.jpg"
         }
       ],
       "sales": [
@@ -2207,9 +2207,63 @@
       ],
       "tags": [
         "丰桥动物园",
-        "Q版"
+        "Q版",
+        "植物版",
+        "小鞠知花"
       ],
-      "notes": null
+      "notes": "官方商品图与角色阵容确认：植物版图案包含小鞠知花。"
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-attraction-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-attraction-mug",
+      "character_id": "komari-chika",
+      "name_ja": "ちびキャラ アトラクションver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "category_id": "tableware",
+      "campaign_id": "nonhoi-park",
+      "manufacturer_id": "arma-bianca",
+      "variant": "游乐设施版图案包含小鞠知花",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": "直径约82×H95mm",
+        "material": "陶器"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-attraction-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-attraction-mug.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版",
+        "游乐设施版",
+        "小鞠知花"
+      ],
+      "notes": "官方商品图与角色阵容确认：游乐设施版图案包含小鞠知花。"
     },
     {
       "id": "amnibus-nonhoi-chibi-stand",
@@ -15816,8 +15870,8 @@
         {
           "path": "images/items/thechara-pale-keychain-komari.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-keychain-komari.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-03e5bad2e1da5757f2b4128449646d23-800x800.jpg"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181249_6a336ab69b42d.jpg"
         }
       ],
       "sales": [
@@ -15832,6 +15886,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-02"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907443/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -15972,8 +16031,8 @@
         {
           "path": "images/items/thechara-pale-microfiber-komari.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-microfiber-komari.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-d0515c45f46168109a556cf486e03e9e-800x800.jpg"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181309_6a336f6c8e0c7.jpg"
         }
       ],
       "sales": [
@@ -15988,6 +16047,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-02"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907460/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -16076,8 +16140,8 @@
         {
           "path": "images/items/thechara-pale-stand-komari.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-stand-komari.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-da40a66e309fb46972f60a6ae15b6dcc-800x800.jpg"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181254_6a336bfc10211.jpg"
         }
       ],
       "sales": [
@@ -16092,6 +16156,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-02"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907450/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -16128,8 +16197,8 @@
         {
           "path": "images/items/thechara-pale-tapestry-komari.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-tapestry-komari.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-89db8191d24bf0399d1bd811aef20e51-800x800.jpg"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181314_6a33708a1428d.jpg"
         }
       ],
       "sales": [
@@ -16144,6 +16213,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-02"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907467/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
